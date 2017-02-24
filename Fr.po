@@ -15,27 +15,27 @@ msgstr ""
 #. STRINGS.BUILDING.STATUSITEMS.ASSIGNEDTO.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ASSIGNEDTO.NAME"
 msgid "Assigned to: {Assignee}"
-msgstr ""
+msgstr "Assigné à "
 
 #. STRINGS.BUILDING.STATUSITEMS.ASSIGNEDTO.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ASSIGNEDTO.TOOLTIP"
 msgid "Only {Assignee} can use this amenity"
-msgstr ""
+msgstr "Seul {Assignee} peut utiliser cette installation"
 
 #. STRINGS.BUILDING.STATUSITEMS.AWAITINGARTING.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.AWAITINGARTING.NAME"
 msgid "Awaiting decoration"
-msgstr ""
+msgstr "En attente de décoration"
 
 #. STRINGS.BUILDING.STATUSITEMS.AWAITINGARTING.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.AWAITINGARTING.TOOLTIP"
 msgid "A Duplicant must work on this to create art"
-msgstr ""
+msgstr "Un Duplicant doit transformer cet objet en oeuvre d'art"
 
 #. STRINGS.BUILDING.STATUSITEMS.AWAITINGCOMPOSTFLIP.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.AWAITINGCOMPOSTFLIP.NAME"
 msgid "Requires flipping"
-msgstr ""
+msgstr "Doit être retourné"
 
 #. STRINGS.BUILDING.STATUSITEMS.AWAITINGCOMPOSTFLIP.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.AWAITINGCOMPOSTFLIP.TOOLTIP"
@@ -43,31 +43,36 @@ msgid ""
 "Compost must be flipped periodically to produce <style=\"solid\">Fertilizer</"
 "style>"
 msgstr ""
+"Le composte doit être retourné périodiquement pour produire du  <style="
+"\"solid\">Fertilisant</style>"
 
 #. STRINGS.BUILDING.STATUSITEMS.AWAITINGSEEDDELIVERY.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.AWAITINGSEEDDELIVERY.NAME"
 msgid "Awaiting delivery"
-msgstr ""
+msgstr "En attente de livraison"
 
 #. STRINGS.BUILDING.STATUSITEMS.AWAITINGSEEDDELIVERY.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.AWAITINGSEEDDELIVERY.TOOLTIP"
 msgid "Awaiting delivery of selected <style=\"seed\">Seed</style>"
 msgstr ""
+"En attente de livraison de la  <style=\"seed\">Graine</style> sélectionnée"
 
 #. STRINGS.BUILDING.STATUSITEMS.AWAITINGWASTE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.AWAITINGWASTE.NAME"
 msgid "Awaiting compostables"
-msgstr ""
+msgstr "En attente de matière compostable"
 
 #. STRINGS.BUILDING.STATUSITEMS.AWAITINGWASTE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.AWAITINGWASTE.TOOLTIP"
 msgid "More waste material is required to begin to composting process"
 msgstr ""
+"Le composte nécessite plus de matière compostable pour débuter le processus "
+"de compostage"
 
 #. STRINGS.BUILDING.STATUSITEMS.BROKEN.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.BROKEN.NAME"
 msgid "Broken"
-msgstr ""
+msgstr "Cassé"
 
 #. STRINGS.BUILDING.STATUSITEMS.BROKEN.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.BROKEN.TOOLTIP"
@@ -76,31 +81,35 @@ msgid ""
 "\n"
 "It must be repaired"
 msgstr ""
+"Cette construction a été cassée par un Duplicant <style=\"stress\">Stressé</"
+"style> \n"
+"\n"
+"Il doit être réparé"
 
 #. STRINGS.BUILDING.STATUSITEMS.BUILDINGDISABLED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.BUILDINGDISABLED.NAME"
 msgid "Building Disabled"
-msgstr ""
+msgstr "Construction désactivée"
 
 #. STRINGS.BUILDING.STATUSITEMS.BUILDINGDISABLED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.BUILDINGDISABLED.TOOLTIP"
 msgid "This building has been disabled."
-msgstr ""
+msgstr "Cette construction a été désactivée"
 
 #. STRINGS.BUILDING.STATUSITEMS.CANNOTCOOLFURTHER.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CANNOTCOOLFURTHER.NAME"
 msgid "Cannot cool further"
-msgstr ""
+msgstr "Ne peut plus être refroidi"
 
 #. STRINGS.BUILDING.STATUSITEMS.CANNOTCOOLFURTHER.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CANNOTCOOLFURTHER.TOOLTIP"
 msgid "This building cannot cool the surrounding area any further"
-msgstr ""
+msgstr "Cette construction ne peut plus refroidir la zone avoisinante"
 
 #. STRINGS.BUILDING.STATUSITEMS.CHANGEDOORCONTROLSTATE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CHANGEDOORCONTROLSTATE.NAME"
 msgid "Pending Door State Change: {ControlState}"
-msgstr ""
+msgstr "Le changement de statut de la porte est en suspens"
 
 #. STRINGS.BUILDING.STATUSITEMS.CHANGEDOORCONTROLSTATE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CHANGEDOORCONTROLSTATE.TOOLTIP"
