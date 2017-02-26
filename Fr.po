@@ -2520,7 +2520,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.MICROBEMUSHER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.MICROBEMUSHER.NAME"
 msgid "Microbe Musher"
-msgstr "Compacteur de Microbe"
+msgstr "Broyeur de Microbe"
 
 #. STRINGS.BUILDINGS.PREFABS.MINERALDEOXIDIZER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.MINERALDEOXIDIZER.DESC"
@@ -3732,48 +3732,50 @@ msgstr "Cette créature cherche de la nourriture"
 #. STRINGS.CREATURES.STATUSITEMS.NEEDSFERTILIZER.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.NEEDSFERTILIZER.NAME"
 msgid "Requires Fertilizer"
-msgstr ""
+msgstr "Nécessite de l'Engrais"
 
 #. STRINGS.CREATURES.STATUSITEMS.NEEDSFERTILIZER.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.NEEDSFERTILIZER.TOOLTIP"
 msgid "This <style=\"plant\">Plant</style> needs additional nutrients to grow"
-msgstr ""
+msgstr "Cette <style=\"plant\">Plante</style> a besoin d'éléments nutritifs pour croître"
 
 #. STRINGS.CREATURES.STATUSITEMS.PRESERVED.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.PRESERVED.NAME"
 msgid "Preserved"
-msgstr ""
+msgstr "Conservé"
 
 #. STRINGS.CREATURES.STATUSITEMS.PRESERVED.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.PRESERVED.TOOLTIP"
 msgid "This food can be stored indefinitely"
-msgstr ""
+msgstr "Cette nourriture peut être entreposée indéfiniment"
 
 #. STRINGS.CREATURES.STATUSITEMS.READYFORHARVEST.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.READYFORHARVEST.NAME"
 msgid "Ready for harvest"
-msgstr ""
+msgstr "Prêt pour la récolte"
 
 #. STRINGS.CREATURES.STATUSITEMS.READYFORHARVEST.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.READYFORHARVEST.TOOLTIP"
 msgid ""
 "This <style=\"plant\">Plant</style> can be harvested for <style=\"food\">Food</style>"
 msgstr ""
+"Il est possible de récolter la <style=\"food\">Nourriture</style> de cette <style="
+"\"plant\">Plante</style>"
 
 #. STRINGS.CREATURES.STATUSITEMS.REFRIGERATED.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.REFRIGERATED.NAME"
 msgid "Refrigerated"
-msgstr ""
+msgstr "Réfrigéré"
 
 #. STRINGS.CREATURES.STATUSITEMS.REFRIGERATED.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.REFRIGERATED.TOOLTIP"
 msgid "Proper storage is keeping this food from spoiling quickly"
-msgstr ""
+msgstr "Un bon entreposage empêche les aliments de se gâter rapidement"
 
 #. STRINGS.CREATURES.STATUSITEMS.ROTTING.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.ROTTING.NAME"
 msgid "Unrefrigerated"
-msgstr ""
+msgstr "Non réfrigéré"
 
 #. STRINGS.CREATURES.STATUSITEMS.ROTTING.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.ROTTING.TOOLTIP"
@@ -3781,77 +3783,81 @@ msgid ""
 "This food will begin to spoil in temperatures above <style=\"heat\">{RotTemperature}</"
 "style>"
 msgstr ""
+"Cette nourriture commencera à gâter dans si la température dépasse <style=\"heat"
+"\">{RotTemperature}</style>"
 
 #. STRINGS.CREATURES.STATUSITEMS.SLEEPING.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.SLEEPING.NAME"
 msgid "Sleeping"
-msgstr ""
+msgstr "Endormi"
 
 #. STRINGS.CREATURES.STATUSITEMS.SLEEPING.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.SLEEPING.TOOLTIP"
 msgid "This creature is replenishing its stamina"
-msgstr ""
+msgstr "Cette créature reconstitue son endurance"
 
 #. STRINGS.CREATURES.STATUSITEMS.SPOILED.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.SPOILED.NAME"
 msgid "Rotten"
-msgstr ""
+msgstr "Pourri"
 
 #. STRINGS.CREATURES.STATUSITEMS.SPOILED.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.SPOILED.TOOLTIP"
 msgid "This food is well past its prime and shouldn't be consumed by Duplicants"
-msgstr ""
+msgstr "Cette nourriture est périmée et ne devrait pas être consommé par Clones"
 
 #. STRINGS.CREATURES.STATUSITEMS.STALE.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.STALE.NAME"
 msgid "Stale"
-msgstr ""
+msgstr "Rassis"
 
 #. STRINGS.CREATURES.STATUSITEMS.STALE.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.STALE.TOOLTIP"
 msgid "This food is approaching its expiry date"
-msgstr ""
+msgstr "Cet aliment approche de sa date d'expiration"
 
 #. STRINGS.CREATURES.STATUSITEMS.STRUGGLING.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.STRUGGLING.NAME"
 msgid "Struggling"
-msgstr ""
+msgstr "Se débat"
 
 #. STRINGS.CREATURES.STATUSITEMS.STRUGGLING.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.STRUGGLING.TOOLTIP"
 msgid "This creature is trying to get away"
-msgstr ""
+msgstr "Cette créature essaie de s'enfuir"
 
 #. STRINGS.CREATURES.STATUSITEMS.SUFFOCATING.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.SUFFOCATING.NAME"
 msgid "Suffocating"
-msgstr ""
+msgstr "Étouffe"
 
 #. STRINGS.CREATURES.STATUSITEMS.SUFFOCATING.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.SUFFOCATING.TOOLTIP"
 msgid "Cannot breathe"
-msgstr ""
+msgstr "Ne peut pas respirer"
 
 #. STRINGS.CREATURES.STATUSITEMS.TIRED.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.TIRED.NAME"
 msgid "Fatigued"
-msgstr ""
+msgstr "Fatigué"
 
 #. STRINGS.CREATURES.STATUSITEMS.TIRED.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.TIRED.TOOLTIP"
 msgid "This creature needs to rest"
-msgstr ""
+msgstr "Cette créature a besoin de se reposer"
 
 #. STRINGS.CREATURES.STATUSITEMS.WILTING.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.WILTING.NAME"
 msgid "Stifled"
-msgstr ""
+msgstr "Entravé"
 
 #. STRINGS.CREATURES.STATUSITEMS.WILTING.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.WILTING.TOOLTIP"
 msgid ""
 "Current conditions prevent this <style=\"plant\">Plant</style> from growing further"
 msgstr ""
+"Les conditions actuelles empêchent cette <style=\"plant\">Plante</style> de croître "
+"davantage"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.AIRCONSUMPTIONRATE.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.AIRCONSUMPTIONRATE.DESC"
@@ -3859,11 +3865,13 @@ msgid ""
 "The Air Consumption attribute determines how much <style=\"oxygen\">Oxygen</style> per "
 "minute a Duplicant requires to live."
 msgstr ""
+"L'attribut Consommation d'Air détermine la quantité d'<style=\"oxygen\">Oxygène</style> "
+"par minute nécessaire à un Clone pour vivre."
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.AIRCONSUMPTIONRATE.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.AIRCONSUMPTIONRATE.NAME"
 msgid "Air Consumption Rate"
-msgstr ""
+msgstr "Taux de Consommation d'Air"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.AIRCONSUMPTIONRATE.PROFESSION_NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.AIRCONSUMPTIONRATE.PROFESSION_NAME"
@@ -3874,41 +3882,42 @@ msgstr ""
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.ART.DESC"
 msgid "Creativity affects the speed and quality of a Duplicant's artistic creations."
 msgstr ""
+"La Créativité affecte la vitesse et la qualité des créations artistiques d'un Clone.."
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.ART.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.ART.NAME"
 msgid "Creativity"
-msgstr ""
+msgstr "Créativité"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.ART.PROFESSION_NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.ART.PROFESSION_NAME"
 msgid "Artist"
-msgstr ""
+msgstr "Artiste"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.ART.SPEEDMODIFIER
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.ART.SPEEDMODIFIER"
 msgid "$value% Decorating Speed"
-msgstr ""
+msgstr "$value% Vitesse de Décoration"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.ATHLETICS.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.ATHLETICS.DESC"
 msgid "The Athletics attribute determines a Duplicant's movement speed."
-msgstr ""
+msgstr "L'attribut Athletics détermine la vitesse de déplacement d'un Clone."
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.ATHLETICS.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.ATHLETICS.NAME"
 msgid "Athletics"
-msgstr ""
+msgstr "Athlétisme"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.ATHLETICS.PROFESSION_NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.ATHLETICS.PROFESSION_NAME"
 msgid "Runner"
-msgstr ""
+msgstr "Coureur"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.ATHLETICS.SPEEDMODIFIER
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.ATHLETICS.SPEEDMODIFIER"
 msgid "$value% Movement Speed"
-msgstr ""
+msgstr "$value% Vitesse de Déplacement"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.BLADDERDELTA.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.BLADDERDELTA.DESC"
@@ -3918,7 +3927,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.ATTRIBUTES.BLADDERDELTA.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.BLADDERDELTA.NAME"
 msgid "Bladder Change"
-msgstr ""
+msgstr "Charge de la Vessie"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.CALORIESDELTA.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.CALORIESDELTA.DESC"
@@ -3928,27 +3937,27 @@ msgstr ""
 #. STRINGS.DUPLICANTS.ATTRIBUTES.CALORIESDELTA.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.CALORIESDELTA.NAME"
 msgid "Calories Burn Rate"
-msgstr ""
+msgstr "Taux de Consommation Calorique"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.CONSTRUCTION.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.CONSTRUCTION.DESC"
 msgid "The Construction attribute determines a Duplicant's building speed."
-msgstr ""
+msgstr "L'attribut Construction détermine la vitesse de construction d'un Clone."
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.CONSTRUCTION.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.CONSTRUCTION.NAME"
 msgid "Construction"
-msgstr ""
+msgstr "Construction"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.CONSTRUCTION.PROFESSION_NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.CONSTRUCTION.PROFESSION_NAME"
 msgid "Architect"
-msgstr ""
+msgstr "Architecte"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.CONSTRUCTION.SPEEDMODIFIER
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.CONSTRUCTION.SPEEDMODIFIER"
 msgid "$value% Construction Speed"
-msgstr ""
+msgstr "$value%  Vitesse de Cconstruction"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.COOKING.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.COOKING.DESC"
@@ -3956,82 +3965,86 @@ msgid ""
 "The Cooking attribute determines a Duplicant's <style=\"food\">Food</style> production "
 "speed."
 msgstr ""
+"L'attribut Cuisine détermine la vitesse à laquelle un Clone produira de la <style=\"food"
+"\">Nourriture</style>."
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.COOKING.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.COOKING.NAME"
 msgid "Cooking"
-msgstr ""
+msgstr "Cuisine"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.COOKING.PROFESSION_NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.COOKING.PROFESSION_NAME"
 msgid "Chef"
-msgstr ""
+msgstr "Chef"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.COOKING.SPEEDMODIFIER
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.COOKING.SPEEDMODIFIER"
 msgid "$value% Cooking Speed"
-msgstr ""
+msgstr "$Value% Vitesse de Cuisson"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.DECOR.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.DECOR.DESC"
 msgid "<style=\"decor\">Decor</style> affects a Duplicant's Room Opinion."
 msgstr ""
+"Le <style=\"decor\">Décor</style> affecte l'opinion d'un Clone à propos d'une pièce"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.DECOR.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.DECOR.NAME"
 msgid "Decor"
-msgstr ""
+msgstr "Décor"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.DECOREXPECTATION.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.DECOREXPECTATION.DESC"
 msgid ""
 "Not meeting a Duplicant's expectations increases their <style=\"stress\">Stress</style>."
 msgstr ""
+"Ne pas répondre aux attentes d'un Clone augmente leur <style=\"stress\">Stress</style>."
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.DECOREXPECTATION.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.DECOREXPECTATION.NAME"
 msgid "Decor Expectation"
-msgstr ""
+msgstr "Attente pour le décor"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.DECORRADIUS.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.DECORRADIUS.DESC"
 msgid "Distance of the <style=\"decor\">Decor</style> effect."
-msgstr ""
+msgstr "Portée de l'effet du <style=\"decor\">Décor</style>."
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.DECORRADIUS.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.DECORRADIUS.NAME"
 msgid "Decor Radius"
-msgstr ""
+msgstr "Rayon du Décor"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.DIGGING.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.DIGGING.DESC"
 msgid "The Digging attribute determines a Duplicant's mining speed."
-msgstr ""
+msgstr "L'attribut Minage détermine la vitesse d'extraction d'un Clone."
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.DIGGING.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.DIGGING.NAME"
 msgid "Digging"
-msgstr ""
+msgstr "Minage"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.DIGGING.PROFESSION_NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.DIGGING.PROFESSION_NAME"
 msgid "Miner"
-msgstr ""
+msgstr "Mineur"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.DIGGING.SPEEDMODIFIER
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.DIGGING.SPEEDMODIFIER"
 msgid "$value% Digging Speed"
-msgstr ""
+msgstr "$value% Vitesse de Minage"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.HYGIENE.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.HYGIENE.DESC"
 msgid "<style=\"hygiene\">Hygiene</style> affects a Duplicant's sense of cleanliness."
-msgstr ""
+msgstr "L'<style=\"hygiene\">Hygiène</style> affecte le sentiment de propreté d'un Clone."
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.HYGIENE.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.HYGIENE.NAME"
 msgid "Hygiene"
-msgstr ""
+msgstr "Hygiène"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.HYGIENE.PROFESSION_NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.HYGIENE.PROFESSION_NAME"
@@ -4044,11 +4057,13 @@ msgid ""
 "The Insulation attribute determines how much a Duplicant's temperature fluctuates with "
 "their environment's."
 msgstr ""
+"L'attribut Isolation détermine la fluctuation de la température d'un Clone avec son "
+"environnement."
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.INSULATION.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.INSULATION.NAME"
 msgid "Insulation"
-msgstr ""
+msgstr "Isolation"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.INSULATION.PROFESSION_NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.INSULATION.PROFESSION_NAME"
@@ -4058,7 +4073,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.ATTRIBUTES.INSULATION.SPEEDMODIFIER
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.INSULATION.SPEEDMODIFIER"
 msgid "$value% Temperature Retention"
-msgstr ""
+msgstr "$value% Rétention de Température"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.LEARNING.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.LEARNING.DESC"
@@ -4066,47 +4081,51 @@ msgid ""
 "The Learning attribute determines a Duplicant's skill training and <style=\"research"
 "\">Research</style> effectiveness."
 msgstr ""
+"L'attribut Apprentissage détermine la vitesse d'apprentissage des compétences d'un "
+"Clone et l'efficacité de la <style=\"research\">Recherche</style>."
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.LEARNING.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.LEARNING.NAME"
 msgid "Learning"
-msgstr ""
+msgstr "Apprentissage "
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.LEARNING.PROFESSION_NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.LEARNING.PROFESSION_NAME"
 msgid "Scientist"
-msgstr ""
+msgstr "Scientifique"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.LEARNING.RESEARCHPOINTS
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.LEARNING.RESEARCHPOINTS"
 msgid "$value Research Points Per Day"
-msgstr ""
+msgstr "$value Points de Recherche par jour"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.LEARNING.SPEEDMODIFIER
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.LEARNING.SPEEDMODIFIER"
 msgid "$value% Skill Leveling"
-msgstr ""
+msgstr "$value% Niveau de Compétence"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.MACHINERY.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.MACHINERY.DESC"
 msgid ""
 "The Tinkering attribute determines a Duplicant's efficiency when operating machines."
 msgstr ""
+"L'attribut Bricoleur détermine l'efficacité d'un Clone lors de l'utilisation de "
+"machines."
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.MACHINERY.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.MACHINERY.NAME"
 msgid "Tinkering"
-msgstr ""
+msgstr "Bricoleur "
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.MACHINERY.PROFESSION_NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.MACHINERY.PROFESSION_NAME"
 msgid "Technician"
-msgstr ""
+msgstr "Technicien"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.MACHINERY.SPEEDMODIFIER
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.MACHINERY.SPEEDMODIFIER"
 msgid "$value% Tinkering Speed"
-msgstr ""
+msgstr "$value% Vitesse de Bricolage"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.MAXUNDERWATERTRAVELCOST.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.MAXUNDERWATERTRAVELCOST.DESC"
@@ -4116,7 +4135,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.ATTRIBUTES.MAXUNDERWATERTRAVELCOST.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.MAXUNDERWATERTRAVELCOST.NAME"
 msgid "Underwater Movement"
-msgstr ""
+msgstr "Mouvement Sous-Marin"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.MAXUNDERWATERTRAVELCOST.PROFESSION_NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.MAXUNDERWATERTRAVELCOST.PROFESSION_NAME"
@@ -4129,26 +4148,28 @@ msgid ""
 "The Medicine attribute determines a Duplicant's <style=\"disease\">Disease</style> "
 "resistance and ability to heal after injury."
 msgstr ""
+"L'attribut Médecine détermine la résistance à la <style=\"disease\">Maladie</style> "
+"d'un Clone et sa capacité de guérir après une blessure."
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.MEDICAL.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.MEDICAL.NAME"
 msgid "Medicine"
-msgstr ""
+msgstr "Médecine"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.MEDICAL.PROFESSION_NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.MEDICAL.PROFESSION_NAME"
 msgid "Physician"
-msgstr ""
+msgstr "Médecin"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.MEDICAL.SPEEDMODIFIER
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.MEDICAL.SPEEDMODIFIER"
 msgid "$value% Disease Resistance"
-msgstr ""
+msgstr "$value% Résistance aux Maladies"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.PROFESSION_DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.PROFESSION_DESC"
 msgid "This Duplicant is most proficient at {0}"
-msgstr ""
+msgstr "Ce Clone est le plus compétent à {0}"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.STAMINADELTA.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.STAMINADELTA.DESC"
@@ -4158,7 +4179,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.ATTRIBUTES.STAMINADELTA.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.STAMINADELTA.NAME"
 msgid "Stamina Change"
-msgstr ""
+msgstr "Changement d'endurance"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.STRENGTH.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.STRENGTH.DESC"
@@ -4166,41 +4187,43 @@ msgid ""
 "The Strength attribute determines a Duplicant's carrying capacity and combat "
 "effectiveness."
 msgstr ""
+"L'attribut Force détermine la capacité de transport d'un Clone et son efficacité au "
+"combat."
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.STRENGTH.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.STRENGTH.NAME"
 msgid "Strength"
-msgstr ""
+msgstr "Force"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.STRENGTH.PROFESSION_NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.STRENGTH.PROFESSION_NAME"
 msgid "Body Builder"
-msgstr ""
+msgstr "Culturiste"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.STRENGTH.SPEEDMODIFIER
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.STRENGTH.SPEEDMODIFIER"
 msgid "$value% Carrying Weight"
-msgstr ""
+msgstr "$value% Capacité de Transport"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.STRESSDELTA.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.STRESSDELTA.DESC"
 msgid "Modifies the rate at which a Duplicant's <style=\"stress\">Stress</style> changes."
-msgstr ""
+msgstr "Modifie le rythme auquel le >style=\"stress\">Stress</ style> d'un Clone varie."
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.STRESSDELTA.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.STRESSDELTA.NAME"
 msgid "Stress Change"
-msgstr ""
+msgstr "Variation de Stress"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.TOILETEFFICIENCY.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.TOILETEFFICIENCY.DESC"
 msgid "Modifies the speed with which a Duplicant completes their \"personal business\"."
-msgstr ""
+msgstr "Modifie la vitesse avec laquelle un Clone termine sa \"petite affaire\"."
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.TOILETEFFICIENCY.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.TOILETEFFICIENCY.NAME"
 msgid "Bladder Efficiency"
-msgstr ""
+msgstr "Efficacité de la Vessie"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.TOILETEFFICIENCY.PROFESSION_NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.TOILETEFFICIENCY.PROFESSION_NAME"
@@ -4215,47 +4238,49 @@ msgstr ""
 #. STRINGS.DUPLICANTS.ATTRIBUTES.TOXICITYDELTA.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.TOXICITYDELTA.NAME"
 msgid "Toxicity Change"
-msgstr ""
+msgstr "Changement de Toxicité"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.UNPROFESSIONAL_DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.UNPROFESSIONAL_DESC"
 msgid "This Duplicant has no discernible skills to speak of"
-msgstr ""
+msgstr "Ce Clone n'a aucune compétence identifiable pour parler de"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.UNPROFESSIONAL_NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.UNPROFESSIONAL_NAME"
 msgid "Lump"
-msgstr ""
+msgstr "Bossu"
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.ART.DESC
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.ART.DESC"
 msgid "Sculpt or paint art pieces to improve colony <style=\"decor\">Decor</style>."
 msgstr ""
+"Sculpte ou peint des pièces d'art pour améliorer le <style=\"decor\">Décor</style> de "
+"la colonie."
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.ART.NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.ART.NAME"
 msgid "Art"
-msgstr ""
+msgstr "Art"
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.BUILD.DESC
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.BUILD.DESC"
 msgid "Construct new buildings."
-msgstr ""
+msgstr "Construit de nouveaux équipements."
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.BUILD.NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.BUILD.NAME"
 msgid "Build"
-msgstr ""
+msgstr "Construire"
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.COMBAT.DESC
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.COMBAT.DESC"
 msgid "Attack wild creatures."
-msgstr ""
+msgstr "Attaque des créatures sauvages."
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.COMBAT.NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.COMBAT.NAME"
 msgid "Combat"
-msgstr ""
+msgstr "Attaquer"
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.COMPOST.DESC
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.COMPOST.DESC"
@@ -4263,807 +4288,819 @@ msgid ""
 "Deliver <style=\"solid\">Contaminated Dirt</style> to compost to produce <style=\"solid"
 "\">Fertilizer</style>."
 msgstr ""
+"Apporte de la <style=\"solid\">Terre Contaminée</style> au compost pour produire de "
+"l'<style=\"solid\">Engrais</style>."
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.COMPOST.NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.COMPOST.NAME"
 msgid "Compost"
-msgstr ""
+msgstr "Composte"
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.COOK.DESC
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.COOK.DESC"
 msgid ""
 "Produce <style=\"food\">Food</style> for Duplicants with food preparation buildings."
 msgstr ""
+"Produit de la <style=\"food\">Nourriture</style> pour des Clones grâce aux équipements "
+"de préparation des aliments."
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.COOK.NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.COOK.NAME"
 msgid "Cook"
-msgstr ""
+msgstr "Cuisine"
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.DELIVER.DESC
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.DELIVER.DESC"
 msgid "Transport materials to critical utility buildings and high priority storage."
-msgstr ""
+msgstr "Transporte des matériaux aux bâtiments essentiels et d'entreposage prioritaire."
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.DELIVER.NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.DELIVER.NAME"
 msgid "Deliver"
-msgstr ""
+msgstr "Apporter"
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.DIG.DESC
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.DIG.DESC"
 msgid "Excavate raw materials."
-msgstr ""
+msgstr "Excave des matières premières."
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.DIG.NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.DIG.NAME"
 msgid "Dig"
-msgstr ""
+msgstr "Creuser"
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.GENERATEPOWER.DESC
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.GENERATEPOWER.DESC"
 msgid "Run on manual generators to produce <style=\"power\">Power</style>."
 msgstr ""
+"Cours sur le Générateur Manuel afin de produire de l'<style=\"power\">Énergie</style> "
+"électrique."
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.GENERATEPOWER.NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.GENERATEPOWER.NAME"
 msgid "Generate"
-msgstr ""
+msgstr "Générer"
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.HARVEST.DESC
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.HARVEST.DESC"
 msgid "Pick the <style=\"food\">Food</style> from <style=\"plant\">Plants</style>."
 msgstr ""
+"Récolte la <style=\"food\">Nourriture</style> sur les <style=\"plant\">Plantes</style>."
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.HARVEST.NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.HARVEST.NAME"
 msgid "Harvest"
-msgstr ""
+msgstr "Récolter"
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.RESEARCH.DESC
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.RESEARCH.DESC"
 msgid "Work <style=\"research\">Research Stations</style> to unlock new technologies."
 msgstr ""
+"Travaille à la <style=\"research\">Station de Recherche</style> pour découvrir de "
+"nouvelles technologies."
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.RESEARCH.NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.RESEARCH.NAME"
 msgid "Research"
-msgstr ""
+msgstr "Rechercher"
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.SWEEP.DESC
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.SWEEP.DESC"
 msgid "Move materials to noncritical buildings and normal priority storage."
 msgstr ""
+"Déplace des matériaux vers les équipement non critiques et le stockage non prioritaire."
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.SWEEP.NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.SWEEP.NAME"
 msgid "Sweep"
-msgstr ""
+msgstr "Balayer"
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.TOGGLE.DESC
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.TOGGLE.DESC"
 msgid "Manually enable, disable or adjust building switches and filters."
 msgstr ""
+"Active, désactive ou ajuste manuellement les commutateurs et les filtres des "
+"équipements."
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.TOGGLE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.TOGGLE.NAME"
 msgid "Toggle"
-msgstr ""
+msgstr "Activer"
 
 #. STRINGS.DUPLICANTS.CHORES.ART.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.ART.NAME"
 msgid "Arting"
-msgstr ""
+msgstr "Décorer"
 
 #. STRINGS.DUPLICANTS.CHORES.ART.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.ART.STATUS"
 msgid "Going to decorate"
-msgstr ""
+msgstr "Décore"
 
 #. STRINGS.DUPLICANTS.CHORES.ATTACK.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.ATTACK.NAME"
 msgid "Attack"
-msgstr ""
+msgstr "Attaquer"
 
 #. STRINGS.DUPLICANTS.CHORES.ATTACK.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.ATTACK.STATUS"
 msgid "Attacking"
-msgstr ""
+msgstr "Attaque"
 
 #. STRINGS.DUPLICANTS.CHORES.BEINCAPACITATED.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.BEINCAPACITATED.NAME"
 msgid "BeIncapacitated"
-msgstr ""
+msgstr "Est Affecté"
 
 #. STRINGS.DUPLICANTS.CHORES.BEINCAPACITATED.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.BEINCAPACITATED.STATUS"
 msgid "Dying"
-msgstr ""
+msgstr "Est Mourant"
 
 #. STRINGS.DUPLICANTS.CHORES.BUILD.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.BUILD.NAME"
 msgid "Build"
-msgstr ""
+msgstr "Construire"
 
 #. STRINGS.DUPLICANTS.CHORES.BUILD.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.BUILD.STATUS"
 msgid "Going to build"
-msgstr ""
+msgstr "Va Construire"
 
 #. STRINGS.DUPLICANTS.CHORES.BUILDDIG.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.BUILDDIG.NAME"
 msgid "Dig"
-msgstr ""
+msgstr "Creuser"
 
 #. STRINGS.DUPLICANTS.CHORES.BUILDDIG.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.BUILDDIG.STATUS"
 msgid "Going to dig"
-msgstr ""
+msgstr "Va Creuser"
 
 #. STRINGS.DUPLICANTS.CHORES.BUILDFETCH.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.BUILDFETCH.NAME"
 msgid "Deliver"
-msgstr ""
+msgstr "Apporter"
 
 #. STRINGS.DUPLICANTS.CHORES.BUILDFETCH.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.BUILDFETCH.STATUS"
 msgid "Delivering"
-msgstr ""
+msgstr "Va Apporter"
 
 #. STRINGS.DUPLICANTS.CHORES.CLEANTOILET.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.CLEANTOILET.NAME"
 msgid "Clean"
-msgstr ""
+msgstr "Nettoyer"
 
 #. STRINGS.DUPLICANTS.CHORES.CLEANTOILET.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.CLEANTOILET.STATUS"
 msgid "Going to clean"
-msgstr ""
+msgstr "Va Nettoyer"
 
 #. STRINGS.DUPLICANTS.CHORES.COMPOSTWORKABLE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.COMPOSTWORKABLE.NAME"
 msgid "Compost"
-msgstr ""
+msgstr "Composter"
 
 #. STRINGS.DUPLICANTS.CHORES.COMPOSTWORKABLE.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.COMPOSTWORKABLE.STATUS"
 msgid "Going to compost"
-msgstr ""
+msgstr "Va Composter"
 
 #. STRINGS.DUPLICANTS.CHORES.COOK.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.COOK.NAME"
 msgid "Cooking"
-msgstr ""
+msgstr "Cuisiner"
 
 #. STRINGS.DUPLICANTS.CHORES.COOK.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.COOK.STATUS"
 msgid "Going to cook"
-msgstr ""
+msgstr "Va Cuisiner"
 
 #. STRINGS.DUPLICANTS.CHORES.COOKFETCH.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.COOKFETCH.NAME"
 msgid "Deliver"
-msgstr ""
+msgstr "Apporter"
 
 #. STRINGS.DUPLICANTS.CHORES.COOKFETCH.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.COOKFETCH.STATUS"
 msgid "Delivering"
-msgstr ""
+msgstr "Va Apporter"
 
 #. STRINGS.DUPLICANTS.CHORES.DEBUGGOTO.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.DEBUGGOTO.NAME"
 msgid "DebugGoTo"
-msgstr ""
+msgstr "DebugGoTo"
 
 #. STRINGS.DUPLICANTS.CHORES.DEBUGGOTO.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.DEBUGGOTO.STATUS"
 msgid "DebugGoTo"
-msgstr ""
+msgstr "DebugGoTo"
 
 #. STRINGS.DUPLICANTS.CHORES.DECONSTRUCT.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.DECONSTRUCT.NAME"
 msgid "Deconstruct"
-msgstr ""
+msgstr "Démanteler"
 
 #. STRINGS.DUPLICANTS.CHORES.DECONSTRUCT.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.DECONSTRUCT.STATUS"
 msgid "Going to deconstruct"
-msgstr ""
+msgstr "Va démanteler"
 
 #. STRINGS.DUPLICANTS.CHORES.DELIVERFOOD.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.DELIVERFOOD.NAME"
 msgid "DeliverFood"
-msgstr ""
+msgstr "Livrer de la Nourriture"
 
 #. STRINGS.DUPLICANTS.CHORES.DELIVERFOOD.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.DELIVERFOOD.STATUS"
 msgid "Delivering food"
-msgstr ""
+msgstr "Va Livrer de la Nourriture"
 
 #. STRINGS.DUPLICANTS.CHORES.DIE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.DIE.NAME"
 msgid "Die"
-msgstr ""
+msgstr "Mourir"
 
 #. STRINGS.DUPLICANTS.CHORES.DIE.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.DIE.STATUS"
 msgid "Dying"
-msgstr ""
+msgstr "Est Mourant"
 
 #. STRINGS.DUPLICANTS.CHORES.DIG.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.DIG.NAME"
 msgid "Dig"
-msgstr ""
+msgstr "Creuser"
 
 #. STRINGS.DUPLICANTS.CHORES.DIG.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.DIG.STATUS"
 msgid "Going to dig"
-msgstr ""
+msgstr "Va Creuser"
 
 #. STRINGS.DUPLICANTS.CHORES.DOCTOR.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.DOCTOR.NAME"
 msgid "Doctor"
-msgstr ""
+msgstr "Traiter"
 
 #. STRINGS.DUPLICANTS.CHORES.DOCTOR.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.DOCTOR.STATUS"
 msgid "Nursing"
-msgstr ""
+msgstr "Prend soin"
 
 #. STRINGS.DUPLICANTS.CHORES.DROPUNUSEDINVENTORY.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.DROPUNUSEDINVENTORY.NAME"
 msgid "Drop Unused Inventory"
-msgstr ""
+msgstr "Jeter les items non utilisés"
 
 #. STRINGS.DUPLICANTS.CHORES.DROPUNUSEDINVENTORY.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.DROPUNUSEDINVENTORY.STATUS"
 msgid "Dropping unused inventory"
-msgstr ""
+msgstr "Va Jeter les items non utilisés"
 
 #. STRINGS.DUPLICANTS.CHORES.EAT.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.EAT.NAME"
 msgid "Eat"
-msgstr ""
+msgstr "Manger"
 
 #. STRINGS.DUPLICANTS.CHORES.EAT.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.EAT.STATUS"
 msgid "Going to eat"
-msgstr ""
+msgstr "Va Manger"
 
 #. STRINGS.DUPLICANTS.CHORES.EMOTEHIGHPRIORITY.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.EMOTEHIGHPRIORITY.NAME"
 msgid "EmoteHighPriority"
-msgstr ""
+msgstr "Mettre en priorité élevé"
 
 #. STRINGS.DUPLICANTS.CHORES.EMOTEHIGHPRIORITY.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.EMOTEHIGHPRIORITY.STATUS"
 msgid "High Priority Emote"
-msgstr ""
+msgstr "En Priorité Élevé"
 
 #. STRINGS.DUPLICANTS.CHORES.EMPTYSTORAGE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.EMPTYSTORAGE.NAME"
 msgid "Emptying Storage"
-msgstr ""
+msgstr "Vider l'entreposage"
 
 #. STRINGS.DUPLICANTS.CHORES.EMPTYSTORAGE.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.EMPTYSTORAGE.STATUS"
 msgid "Going to empty storage"
-msgstr ""
+msgstr "Va Vider l'entreposage"
 
 #. STRINGS.DUPLICANTS.CHORES.ENTOMBED.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.ENTOMBED.NAME"
 msgid "Entombed"
-msgstr ""
+msgstr "Enterré"
 
 #. STRINGS.DUPLICANTS.CHORES.ENTOMBED.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.ENTOMBED.STATUS"
 msgid "Entombed"
-msgstr ""
+msgstr "Est Enterré"
 
 #. STRINGS.DUPLICANTS.CHORES.EQUIP.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.EQUIP.NAME"
 msgid "Equip"
-msgstr ""
+msgstr "Équiper"
 
 #. STRINGS.DUPLICANTS.CHORES.EQUIP.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.EQUIP.STATUS"
 msgid "Moving to equip"
-msgstr ""
+msgstr "Va équiper"
 
 #. STRINGS.DUPLICANTS.CHORES.FABRICATE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.FABRICATE.NAME"
 msgid "Fabricating"
-msgstr ""
+msgstr "Fabriquer"
 
 #. STRINGS.DUPLICANTS.CHORES.FABRICATE.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.FABRICATE.STATUS"
 msgid "Going to fabricate"
-msgstr ""
+msgstr "Va Fabriquer"
 
 #. STRINGS.DUPLICANTS.CHORES.FABRICATEFETCH.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.FABRICATEFETCH.NAME"
 msgid "Deliver"
-msgstr ""
+msgstr "Apporter"
 
 #. STRINGS.DUPLICANTS.CHORES.FABRICATEFETCH.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.FABRICATEFETCH.STATUS"
 msgid "Delivering"
-msgstr ""
+msgstr "Va Apporter"
 
 #. STRINGS.DUPLICANTS.CHORES.FETCH.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.FETCH.NAME"
 msgid "Deliver"
-msgstr ""
+msgstr "Apporter"
 
 #. STRINGS.DUPLICANTS.CHORES.FETCH.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.FETCH.STATUS"
 msgid "Delivering"
-msgstr ""
+msgstr "Va Apporter"
 
 #. STRINGS.DUPLICANTS.CHORES.FETCHCRITICAL.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.FETCHCRITICAL.NAME"
 msgid "Deliver"
-msgstr ""
+msgstr "Apporter"
 
 #. STRINGS.DUPLICANTS.CHORES.FETCHCRITICAL.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.FETCHCRITICAL.STATUS"
 msgid "Delivering"
-msgstr ""
+msgstr "Va Apporter"
 
 #. STRINGS.DUPLICANTS.CHORES.FLEE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.FLEE.NAME"
 msgid "Flee"
-msgstr ""
+msgstr "Fuir"
 
 #. STRINGS.DUPLICANTS.CHORES.FLEE.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.FLEE.STATUS"
 msgid "Fleeing"
-msgstr ""
+msgstr "Est en fuite"
 
 #. STRINGS.DUPLICANTS.CHORES.FLIPCOMPOST.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.FLIPCOMPOST.NAME"
 msgid "Flip"
-msgstr ""
+msgstr "Retourner"
 
 #. STRINGS.DUPLICANTS.CHORES.FLIPCOMPOST.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.FLIPCOMPOST.STATUS"
 msgid "Going to flip compost"
-msgstr ""
+msgstr "Va retourner le compost"
 
 #. STRINGS.DUPLICANTS.CHORES.GENERATEPOWER.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.GENERATEPOWER.NAME"
 msgid "Generate Power"
-msgstr ""
+msgstr "Générer de l'Énergie"
 
 #. STRINGS.DUPLICANTS.CHORES.GENERATEPOWER.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.GENERATEPOWER.STATUS"
 msgid "Going to generate power"
-msgstr ""
+msgstr "Va Générer de l'Énergie"
 
 #. STRINGS.DUPLICANTS.CHORES.HARVEST.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.HARVEST.NAME"
 msgid "Harvest"
-msgstr ""
+msgstr "Récolter"
 
 #. STRINGS.DUPLICANTS.CHORES.HARVEST.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.HARVEST.STATUS"
 msgid "Going to harvest"
-msgstr ""
+msgstr "Va Récolter"
 
 #. STRINGS.DUPLICANTS.CHORES.HEAL.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.HEAL.NAME"
 msgid "Heal"
-msgstr ""
+msgstr "Soigner"
 
 #. STRINGS.DUPLICANTS.CHORES.HEAL.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.HEAL.STATUS"
 msgid "Healing"
-msgstr ""
+msgstr "Soigne"
 
 #. STRINGS.DUPLICANTS.CHORES.HEALCRITICAL.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.HEALCRITICAL.NAME"
 msgid "Heal"
-msgstr ""
+msgstr "Soigner"
 
 #. STRINGS.DUPLICANTS.CHORES.HEALCRITICAL.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.HEALCRITICAL.STATUS"
 msgid "Healing"
-msgstr ""
+msgstr "Soigne"
 
 #. STRINGS.DUPLICANTS.CHORES.IDLE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.IDLE.NAME"
 msgid "Idle"
-msgstr ""
+msgstr "Arrêter"
 
 #. STRINGS.DUPLICANTS.CHORES.IDLE.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.IDLE.STATUS"
 msgid "Idle"
-msgstr ""
+msgstr "Arrêté"
 
 #. STRINGS.DUPLICANTS.CHORES.LIQUIDCOOLEDFAN.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.LIQUIDCOOLEDFAN.NAME"
 msgid "Use Fan"
-msgstr ""
+msgstr "Utiliser un Ventilateur"
 
 #. STRINGS.DUPLICANTS.CHORES.LIQUIDCOOLEDFAN.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.LIQUIDCOOLEDFAN.STATUS"
 msgid "Going to use fan"
-msgstr ""
+msgstr "Va Utiliser un Ventilateur"
 
 #. STRINGS.DUPLICANTS.CHORES.MANUALCONTROLGOTO.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.MANUALCONTROLGOTO.NAME"
 msgid "ManualControlGoTo"
-msgstr ""
+msgstr "ManualControlGoTo"
 
 #. STRINGS.DUPLICANTS.CHORES.MANUALCONTROLGOTO.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.MANUALCONTROLGOTO.STATUS"
 msgid "Moving to position"
-msgstr ""
+msgstr "Déplacer à la position"
 
 #. STRINGS.DUPLICANTS.CHORES.MANUALCONTROLIDLE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.MANUALCONTROLIDLE.NAME"
 msgid "Manual Idle"
-msgstr ""
+msgstr "Arrêt Manuel"
 
 #. STRINGS.DUPLICANTS.CHORES.MANUALCONTROLIDLE.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.MANUALCONTROLIDLE.STATUS"
 msgid "Idle"
-msgstr ""
+msgstr "Arrêté"
 
 #. STRINGS.DUPLICANTS.CHORES.MANUALCONTROLPRIORITIZECHORE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.MANUALCONTROLPRIORITIZECHORE.NAME"
 msgid "ManualControlGoTo"
-msgstr ""
+msgstr "Diriger Manuellement Vers"
 
 #. STRINGS.DUPLICANTS.CHORES.MANUALCONTROLPRIORITIZECHORE.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.MANUALCONTROLPRIORITIZECHORE.STATUS"
 msgid "Moving to position"
-msgstr ""
+msgstr "Déplacer à la position"
 
 #. STRINGS.DUPLICANTS.CHORES.MENTALBREAK.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.MENTALBREAK.NAME"
 msgid "MentalBreak"
-msgstr ""
+msgstr "Dépression nerveuse"
 
 #. STRINGS.DUPLICANTS.CHORES.MENTALBREAK.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.MENTALBREAK.STATUS"
 msgid "Mental break"
-msgstr ""
+msgstr "Fait une Dépression nerveuse"
 
 #. STRINGS.DUPLICANTS.CHORES.MOP.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.MOP.NAME"
 msgid "Mop"
-msgstr ""
+msgstr "Nettoye"
 
 #. STRINGS.DUPLICANTS.CHORES.MOP.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.MOP.STATUS"
 msgid "Going to mop"
-msgstr ""
+msgstr "Va Nettoyer"
 
 #. STRINGS.DUPLICANTS.CHORES.MOVETO.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.MOVETO.NAME"
 msgid "Move To"
-msgstr ""
+msgstr "Déplacer"
 
 #. STRINGS.DUPLICANTS.CHORES.MOVETO.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.MOVETO.STATUS"
 msgid "Moving to location"
-msgstr ""
+msgstr "Se Rend"
 
 #. STRINGS.DUPLICANTS.CHORES.MOVETOLOCATION.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.MOVETOLOCATION.NAME"
 msgid "MoveToLocation"
-msgstr ""
+msgstr "Déplacer"
 
 #. STRINGS.DUPLICANTS.CHORES.MOVETOLOCATION.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.MOVETOLOCATION.STATUS"
 msgid "Move to location"
-msgstr ""
+msgstr "Se Rend"
 
 #. STRINGS.DUPLICANTS.CHORES.MOVETOQUARANTINE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.MOVETOQUARANTINE.NAME"
 msgid "MoveToQuarantine"
-msgstr ""
+msgstr "Déplacer à la Quarantaine"
 
 #. STRINGS.DUPLICANTS.CHORES.MOVETOQUARANTINE.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.MOVETOQUARANTINE.STATUS"
 msgid "Moving to quarantine"
-msgstr ""
+msgstr "Se Rend à la Quarantaine"
 
 #. STRINGS.DUPLICANTS.CHORES.MOVETOSAFETY.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.MOVETOSAFETY.NAME"
 msgid "MoveToSafety"
-msgstr ""
+msgstr "Placer à l'abrit"
 
 #. STRINGS.DUPLICANTS.CHORES.MOVETOSAFETY.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.MOVETOSAFETY.STATUS"
 msgid "Moving to safety"
-msgstr ""
+msgstr "Se met à l'abrit"
 
 #. STRINGS.DUPLICANTS.CHORES.MUSH.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.MUSH.NAME"
 msgid "Mushing"
-msgstr ""
+msgstr "Broyer"
 
 #. STRINGS.DUPLICANTS.CHORES.MUSH.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.MUSH.STATUS"
 msgid "Going to mush"
-msgstr ""
+msgstr "Broye"
 
 #. STRINGS.DUPLICANTS.CHORES.MUSHFETCH.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.MUSHFETCH.NAME"
 msgid "Deliver"
-msgstr ""
+msgstr "Apporter"
 
 #. STRINGS.DUPLICANTS.CHORES.MUSHFETCH.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.MUSHFETCH.STATUS"
 msgid "Delivering"
-msgstr ""
+msgstr "Apporte"
 
 #. STRINGS.DUPLICANTS.CHORES.PEE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.PEE.NAME"
 msgid "Pee"
-msgstr ""
+msgstr "Uriner"
 
 #. STRINGS.DUPLICANTS.CHORES.PEE.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.PEE.STATUS"
 msgid "Bio Break"
-msgstr ""
+msgstr "Pause Biologique"
 
 #. STRINGS.DUPLICANTS.CHORES.PRIORITIZECHORE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.PRIORITIZECHORE.NAME"
 msgid "Prioritize Chore"
-msgstr ""
+msgstr "Prioriser une Tâche"
 
 #. STRINGS.DUPLICANTS.CHORES.PRIORITIZECHORE.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.PRIORITIZECHORE.STATUS"
 msgid "Prioritize chore"
-msgstr ""
+msgstr "Priorise une Tâche"
 
 #. STRINGS.DUPLICANTS.CHORES.RECHARGE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.RECHARGE.NAME"
 msgid "Recharge"
-msgstr ""
+msgstr "Recharger"
 
 #. STRINGS.DUPLICANTS.CHORES.RECHARGE.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.RECHARGE.STATUS"
 msgid "Rechargin equipment"
-msgstr ""
+msgstr "Recharge un équipement"
 
 #. STRINGS.DUPLICANTS.CHORES.RECOVERBREATH.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.RECOVERBREATH.NAME"
 msgid "RecoverBreath"
-msgstr ""
+msgstr "Reprendre son souffle"
 
 #. STRINGS.DUPLICANTS.CHORES.RECOVERBREATH.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.RECOVERBREATH.STATUS"
 msgid "Recovering breath"
-msgstr ""
+msgstr "Reprend son souffle"
 
 #. STRINGS.DUPLICANTS.CHORES.RELAX.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.RELAX.NAME"
 msgid "Relax"
-msgstr ""
+msgstr "Relaxer"
 
 #. STRINGS.DUPLICANTS.CHORES.RELAX.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.RELAX.STATUS"
 msgid "Relaxing"
-msgstr ""
+msgstr "Relaxe"
 
 #. STRINGS.DUPLICANTS.CHORES.RELOCATE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.RELOCATE.NAME"
 msgid "Relocate"
-msgstr ""
+msgstr "Déplacer"
 
 #. STRINGS.DUPLICANTS.CHORES.RELOCATE.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.RELOCATE.STATUS"
 msgid "Going to relocate"
-msgstr ""
+msgstr "Déplace"
 
 #. STRINGS.DUPLICANTS.CHORES.REPAIR.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.REPAIR.NAME"
 msgid "Repair"
-msgstr ""
+msgstr "Réparer"
 
 #. STRINGS.DUPLICANTS.CHORES.REPAIR.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.REPAIR.STATUS"
 msgid "Going to repair"
-msgstr ""
+msgstr "Répare"
 
 #. STRINGS.DUPLICANTS.CHORES.RESCUEINCAPACITATED.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.RESCUEINCAPACITATED.NAME"
 msgid "Toggle"
-msgstr ""
+msgstr "Porter secours à un ami"
 
 #. STRINGS.DUPLICANTS.CHORES.RESCUEINCAPACITATED.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.RESCUEINCAPACITATED.STATUS"
 msgid "Rescuing friend"
-msgstr ""
+msgstr "Porte secours à un ami"
 
 #. STRINGS.DUPLICANTS.CHORES.RESEARCH.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.RESEARCH.NAME"
 msgid "Research"
-msgstr ""
+msgstr "Rechercher"
 
 #. STRINGS.DUPLICANTS.CHORES.RESEARCH.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.RESEARCH.STATUS"
 msgid "Going to research"
-msgstr ""
+msgstr "Recherche"
 
 #. STRINGS.DUPLICANTS.CHORES.RESTDUETODISEASE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.RESTDUETODISEASE.NAME"
 msgid "RestDueToDisease"
-msgstr ""
+msgstr "Prendre du repos pour Maladie"
 
 #. STRINGS.DUPLICANTS.CHORES.RESTDUETODISEASE.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.RESTDUETODISEASE.STATUS"
 msgid "Resting"
-msgstr ""
+msgstr "Se repose"
 
 #. STRINGS.DUPLICANTS.CHORES.SHOWER.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.SHOWER.NAME"
 msgid "Shower"
-msgstr ""
+msgstr "Prendre une Douche"
 
 #. STRINGS.DUPLICANTS.CHORES.SHOWER.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.SHOWER.STATUS"
 msgid "Showering"
-msgstr ""
+msgstr "Se Lave"
 
 #. STRINGS.DUPLICANTS.CHORES.SIGH.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.SIGH.NAME"
 msgid "Sigh"
-msgstr ""
+msgstr "Soupirer"
 
 #. STRINGS.DUPLICANTS.CHORES.SIGH.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.SIGH.STATUS"
 msgid "Sighing"
-msgstr ""
+msgstr "Soupire"
 
 #. STRINGS.DUPLICANTS.CHORES.SLEEP.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.SLEEP.NAME"
 msgid "Sleep"
-msgstr ""
+msgstr "Dormir"
 
 #. STRINGS.DUPLICANTS.CHORES.SLEEP.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.SLEEP.STATUS"
 msgid "Sleeping"
-msgstr ""
+msgstr "Dors"
 
 #. STRINGS.DUPLICANTS.CHORES.SLEEPONFLOOR.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.SLEEPONFLOOR.NAME"
 msgid "SleepOnFloor"
-msgstr ""
+msgstr "Dormir sur le plancher"
 
 #. STRINGS.DUPLICANTS.CHORES.SLEEPONFLOOR.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.SLEEPONFLOOR.STATUS"
 msgid "Sleeping"
-msgstr ""
+msgstr "Dors sur le plancher"
 
 #. STRINGS.DUPLICANTS.CHORES.STRESSACTINGOUT.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.STRESSACTINGOUT.NAME"
 msgid "StressActingOut"
-msgstr ""
+msgstr "Péter un plomb"
 
 #. STRINGS.DUPLICANTS.CHORES.STRESSACTINGOUT.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.STRESSACTINGOUT.STATUS"
 msgid "Lashing out"
-msgstr ""
+msgstr "Pète un plomb"
 
 #. STRINGS.DUPLICANTS.CHORES.STRESSVOMIT.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.STRESSVOMIT.NAME"
 msgid "StressVomit"
-msgstr ""
+msgstr "Vomir à cause du Stress"
 
 #. STRINGS.DUPLICANTS.CHORES.STRESSVOMIT.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.STRESSVOMIT.STATUS"
 msgid "Stress Vomiting"
-msgstr ""
+msgstr "Vomit à cause du Stress"
 
 #. STRINGS.DUPLICANTS.CHORES.TAKEMEDICINE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.TAKEMEDICINE.NAME"
 msgid "TakeMedicine"
-msgstr ""
+msgstr "Prendre des Médicaments"
 
 #. STRINGS.DUPLICANTS.CHORES.TAKEMEDICINE.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.TAKEMEDICINE.STATUS"
 msgid "Taking medicine"
-msgstr ""
+msgstr "Prend des médicaments"
 
 #. STRINGS.DUPLICANTS.CHORES.TOGGLE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.TOGGLE.NAME"
 msgid "Toggle"
-msgstr ""
+msgstr "Actionner"
 
 #. STRINGS.DUPLICANTS.CHORES.TOGGLE.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.TOGGLE.STATUS"
 msgid "Going to toggle"
-msgstr ""
+msgstr "Actionne"
 
 #. STRINGS.DUPLICANTS.CHORES.TRANSPORT.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.TRANSPORT.NAME"
 msgid "Sweep"
-msgstr ""
+msgstr "Ramasser"
 
 #. STRINGS.DUPLICANTS.CHORES.TRANSPORT.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.TRANSPORT.STATUS"
 msgid "Going to sweep"
-msgstr ""
+msgstr "Ramasse"
 
 #. STRINGS.DUPLICANTS.CHORES.UNEQUIP.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.UNEQUIP.NAME"
 msgid "Unequip"
-msgstr ""
+msgstr "Enlever"
 
 #. STRINGS.DUPLICANTS.CHORES.UNEQUIP.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.UNEQUIP.STATUS"
 msgid "Moving to unequip"
-msgstr ""
+msgstr "Enlève"
 
 #. STRINGS.DUPLICANTS.CHORES.UPGRADE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.UPGRADE.NAME"
 msgid "Upgrade"
-msgstr ""
+msgstr "Améliorer"
 
 #. STRINGS.DUPLICANTS.CHORES.UPGRADE.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.UPGRADE.STATUS"
 msgid "Going to upgrade"
-msgstr ""
+msgstr "Améliore"
 
 #. STRINGS.DUPLICANTS.CHORES.UPROOT.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.UPROOT.NAME"
 msgid "Dig Up"
-msgstr ""
+msgstr "Creuser"
 
 #. STRINGS.DUPLICANTS.CHORES.UPROOT.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.UPROOT.STATUS"
 msgid "Going to dig up"
-msgstr ""
+msgstr "Creuse"
 
 #. STRINGS.DUPLICANTS.CHORES.USETOILET.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.USETOILET.NAME"
 msgid "Use Toilet"
-msgstr ""
+msgstr "Utiliser la toilette"
 
 #. STRINGS.DUPLICANTS.CHORES.USETOILET.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.USETOILET.STATUS"
 msgid "Going to use toilet"
-msgstr ""
+msgstr "Utilise la toilette"
 
 #. STRINGS.DUPLICANTS.CHORES.VOMIT.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.VOMIT.NAME"
 msgid "Vomit"
-msgstr ""
+msgstr "Vomir"
 
 #. STRINGS.DUPLICANTS.CHORES.VOMIT.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.VOMIT.STATUS"
 msgid "Vomiting"
-msgstr ""
+msgstr "Vomit"
 
 #. STRINGS.DUPLICANTS.CHORES.WARMUP.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.WARMUP.NAME"
 msgid "Warmup"
-msgstr ""
+msgstr "Réchauffer"
 
 #. STRINGS.DUPLICANTS.CHORES.WARMUP.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.WARMUP.STATUS"
 msgid "Going to warmup"
-msgstr ""
+msgstr "Réchauffe"
 
 #. STRINGS.DUPLICANTS.CHORES.WASHHANDS.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.WASHHANDS.NAME"
 msgid "WashHands"
-msgstr ""
+msgstr "Laver ses mains"
 
 #. STRINGS.DUPLICANTS.CHORES.WASHHANDS.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.WASHHANDS.STATUS"
 msgid "Washing hands"
-msgstr ""
+msgstr "Lave ses mains"
 
 #. STRINGS.DUPLICANTS.DISEASES.ALLDISEASES.NAME
 msgctxt "STRINGS.DUPLICANTS.DISEASES.ALLDISEASES.NAME"
 msgid "All Diseases"
-msgstr ""
+msgstr "Toutes les Maladies"
 
 #. STRINGS.DUPLICANTS.DISEASES.BOOSTSCURESPEED
 msgctxt "STRINGS.DUPLICANTS.DISEASES.BOOSTSCURESPEED"
