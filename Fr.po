@@ -2454,28 +2454,28 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.MEDICALBED.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.MEDICALBED.NAME"
 msgid "Rejuvenator"
-msgstr ""
+msgstr "Regénérateur"
 
 #. STRINGS.BUILDINGS.PREFABS.MEDICALCOT.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.MEDICALCOT.DESC"
 msgid "Nurse Duplicants back to health after a harrowing brush with death."
-msgstr ""
+msgstr "Soigne les Clones qui ont frôlé la mort de près."
 
 #. STRINGS.BUILDINGS.PREFABS.MEDICALCOT.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.MEDICALCOT.EFFECT"
 msgid ""
 "Accelerates the regeneration of a wounded Duplicant's <style=\"Health\">Health</style>."
-msgstr ""
+msgstr "Accélère la régénération de la <style=\"Health\">Santé</style> d'un Clone blessé."
 
 #. STRINGS.BUILDINGS.PREFABS.MEDICALCOT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.MEDICALCOT.NAME"
 msgid "Medical Cot"
-msgstr ""
+msgstr "Lit d'hôpital"
 
 #. STRINGS.BUILDINGS.PREFABS.MESHTILE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.MESHTILE.DESC"
 msgid "How do Duplicants keep their tiny feet from slipping through the holes?"
-msgstr ""
+msgstr "Comment les Clones empêchent-ils leurs pieds minuscules de glisser par les trous?"
 
 #. STRINGS.BUILDINGS.PREFABS.MESHTILE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.MESHTILE.EFFECT"
@@ -2485,17 +2485,23 @@ msgid ""
 "Does not obstruct the flow of <style=\"liquid\">Liquid</style> or <style=\"gas\">Gas</"
 "style>."
 msgstr ""
+"Peut être utilisé comme mur ou plancher pour cloisonner les pièces.\n"
+"\n"
+"N'obstrue pas le flux de <style=\"liquid\">Liquide</style> ou de <style=\"gas\">Gaz</"
+"style>."
 
 #. STRINGS.BUILDINGS.PREFABS.MESHTILE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.MESHTILE.NAME"
 msgid "Mesh Tile"
-msgstr ""
+msgstr "Tuile de maille"
 
 #. STRINGS.BUILDINGS.PREFABS.MICROBEMUSHER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.MICROBEMUSHER.DESC"
 msgid ""
 "Apparently Duplicants can glean some nutrition from the various goops this outputs."
 msgstr ""
+"Apparemment les Clones arrivent à glaner un peu de nourriture sur ce que rejette cette "
+"machine."
 
 #. STRINGS.BUILDINGS.PREFABS.MICROBEMUSHER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.MICROBEMUSHER.EFFECT"
@@ -2505,16 +2511,22 @@ msgid ""
 "\n"
 "Duplicants will not fabricate unless recipes are queued."
 msgstr ""
+"Produit de la <style=\"food\">Nourriture</style> de mauvaise qualité pour des Clones en "
+"utilisant des ingrédients communs. \n"
+"\n"
+"Les Clones n'en fabriqueront pas à moins que des recettes soient inscrites dans la file "
+"d'attente."
 
 #. STRINGS.BUILDINGS.PREFABS.MICROBEMUSHER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.MICROBEMUSHER.NAME"
 msgid "Microbe Musher"
-msgstr ""
+msgstr "Compacteur de Microbe"
 
 #. STRINGS.BUILDINGS.PREFABS.MINERALDEOXIDIZER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.MINERALDEOXIDIZER.DESC"
 msgid "Breathe easy knowing you've crushed a bunch of helpless algae into oblivion."
 msgstr ""
+"Prenez une grande inspiration, sans penser aux algues sans défense qui se font écraser."
 
 #. STRINGS.BUILDINGS.PREFABS.MINERALDEOXIDIZER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.MINERALDEOXIDIZER.EFFECT"
@@ -2523,16 +2535,19 @@ msgid ""
 "\n"
 "Becomes idle when the room enters maximum air pressure range."
 msgstr ""
+"Convertit les <style=\"misc\">Algues</style> en <style=\"oxygen\">Oxygène</style>. \n"
+"\n"
+"Devient inactif lorsque la pièce atteint la pression d'air maximale."
 
 #. STRINGS.BUILDINGS.PREFABS.MINERALDEOXIDIZER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.MINERALDEOXIDIZER.NAME"
 msgid "Algae Deoxydizer"
-msgstr ""
+msgstr "Déoxydeur d'Algues"
 
 #. STRINGS.BUILDINGS.PREFABS.MULTITOOLWORKBENCH.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.MULTITOOLWORKBENCH.DESC"
 msgid "Make your Duplicants faster, stronger... better!"
-msgstr ""
+msgstr "Rendez vos Clones plus rapides, plus forts ... meilleurs!"
 
 #. STRINGS.BUILDINGS.PREFABS.MULTITOOLWORKBENCH.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.MULTITOOLWORKBENCH.EFFECT"
@@ -2542,11 +2557,15 @@ msgid ""
 "\n"
 "Duplicants will not fabricate unless recipes are queued."
 msgstr ""
+"Utilise du <style=\"RawMetal\">Métal Brut</style> ou du <style=\"RefinedMetal\">Métal "
+"Raffiné</style> pour concevoir des <style=\"equipment\">Outils Multifonctions</style>. "
+"Les Clones n'en fabriqueront pas à moins que des recettes ne soient mises dans la file "
+"d'attente."
 
 #. STRINGS.BUILDINGS.PREFABS.MULTITOOLWORKBENCH.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.MULTITOOLWORKBENCH.NAME"
 msgid "Crafting Station"
-msgstr ""
+msgstr "Station d'artisanat"
 
 #. STRINGS.BUILDINGS.PREFABS.OUTHOUSE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.OUTHOUSE.DESC"
@@ -2554,6 +2573,8 @@ msgid ""
 "Outhouses keep Duplicants from getting down in the dumps.\n"
 "Not building any'd be a real waste!"
 msgstr ""
+"Les Bécosses empêchent les Clones de descendre dans les décharges. \n"
+"Ne pas en construire serait un vrai gaspillage!"
 
 #. STRINGS.BUILDINGS.PREFABS.OUTHOUSE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.OUTHOUSE.EFFECT"
@@ -2565,16 +2586,22 @@ msgid ""
 "\n"
 "Must be emptied of <style=\"solid\">Contaminated Dirt</style> periodically."
 msgstr ""
+"Réduit le <style=\"stress\">Stress</style> et la propagation de la <style=\"disease"
+"\">Maladie</style> en indiquant aux Clones où se soulager. \n"
+"\n"
+"Ne nécessite pas de <style=\"GasPiping\">tuyauterie</style>. \n"
+"\n"
+"Doit être vidé de la <style=\"solid\">Terre Contaminée</style> régulièrement."
 
 #. STRINGS.BUILDINGS.PREFABS.OUTHOUSE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.OUTHOUSE.NAME"
 msgid "Outhouse"
-msgstr ""
+msgstr "Bécosse"
 
 #. STRINGS.BUILDINGS.PREFABS.PLANTERBOX.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.PLANTERBOX.DESC"
 msgid "Think inside the box."
-msgstr ""
+msgstr "Le futur dans une boîte."
 
 #. STRINGS.BUILDINGS.PREFABS.PLANTERBOX.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.PLANTERBOX.EFFECT"
@@ -2582,16 +2609,18 @@ msgid ""
 "Houses a single <style=\"plant\">Plant</style> which will periodically produce <style="
 "\"food\">Food</style> or <style=\"medicine\">Medicine</style>."
 msgstr ""
+"Abrite une seule <style=\"plant\">Plante</style> qui produira régulièrement de la "
+"<style=\"food\">Nourriture</style> ou des <style=\"medicine\">Médicaments</style>."
 
 #. STRINGS.BUILDINGS.PREFABS.PLANTERBOX.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.PLANTERBOX.NAME"
 msgid "Planter Box"
-msgstr ""
+msgstr "Boîte à fleurs"
 
 #. STRINGS.BUILDINGS.PREFABS.PRESSUREDOOR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.PRESSUREDOOR.DESC"
 msgid "Is there anything more thrilling than the automation of manual processes?"
-msgstr ""
+msgstr "Y at-il quelque chose de plus excitant que l'automatisation des procédés manuels?"
 
 #. STRINGS.BUILDINGS.PREFABS.PRESSUREDOOR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.PRESSUREDOOR.EFFECT"
@@ -2600,11 +2629,15 @@ msgid ""
 "\n"
 "Functions as a Manual Airlock when no <style=\"power\">Power</style> is available."
 msgstr ""
+"Crée une cloison hermétique qui isole l'atmosphère et la pression entre les zones. \n"
+"\n"
+"Fonctionne comme un sas manuel lorsque aucune <style=\"power\">Alimentation</style> "
+"n'est disponible."
 
 #. STRINGS.BUILDINGS.PREFABS.PRESSUREDOOR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.PRESSUREDOOR.NAME"
 msgid "Mechanized Airlock"
-msgstr ""
+msgstr "Sas Mécanique"
 
 #. STRINGS.BUILDINGS.PREFABS.RATIONBOX.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.RATIONBOX.DESC"
@@ -2612,21 +2645,24 @@ msgid ""
 "Storing food in a box?\n"
 "Seems rational!"
 msgstr ""
+"Garder la nourriture dans une boîte? \n"
+"Ça semble logique!"
 
 #. STRINGS.BUILDINGS.PREFABS.RATIONBOX.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.RATIONBOX.EFFECT"
 msgid "Stores a small amount of <style=\"food\">Food</style>."
-msgstr ""
+msgstr "entrepose une petite quantité de <style=\"food\">Nourriture</style>."
 
 #. STRINGS.BUILDINGS.PREFABS.RATIONBOX.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.RATIONBOX.NAME"
 msgid "Ration Box"
-msgstr ""
+msgstr "Boîte à Rations"
 
 #. STRINGS.BUILDINGS.PREFABS.REFRIGERATOR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.REFRIGERATOR.DESC"
 msgid "Spoil your Duplicants with this hi-tech, spoilage-free food box."
 msgstr ""
+"Gâtez vos Clones avec cette boîte à ration, à la fois technologique et sans perte."
 
 #. STRINGS.BUILDINGS.PREFABS.REFRIGERATOR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.REFRIGERATOR.EFFECT"
@@ -2634,16 +2670,18 @@ msgid ""
 "Drastically increases the shelf life of <style=\"food\">Food</style> by storing it at "
 "an ideal <style=\"heat\">Temperature</style>."
 msgstr ""
+"Augmente considérablement le temps de conservation des <style=\"food\">Aliments</style> "
+"en les entreposant à une <style=\"heat\">Température</style> idéale."
 
 #. STRINGS.BUILDINGS.PREFABS.REFRIGERATOR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.REFRIGERATOR.NAME"
 msgid "Refrigerator"
-msgstr ""
+msgstr "Réfrigérateur"
 
 #. STRINGS.BUILDINGS.PREFABS.RESEARCHCENTER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.RESEARCHCENTER.DESC"
 msgid "Duplicants' first chemistry set."
-msgstr ""
+msgstr "Le premier ensemble de chimie des Clones."
 
 #. STRINGS.BUILDINGS.PREFABS.RESEARCHCENTER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.RESEARCHCENTER.EFFECT"
@@ -2651,16 +2689,18 @@ msgid ""
 "Can be worked by Duplicants to conduct <style=\"research\">Novice Research</style> and "
 "unlock new technologies."
 msgstr ""
+"Peut être utilisé par Clones pour mener des <style=\"research\">Recherches de Base</"
+"style> et déverrouiller de nouvelles technologies."
 
 #. STRINGS.BUILDINGS.PREFABS.RESEARCHCENTER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.RESEARCHCENTER.NAME"
 msgid "Research Station"
-msgstr ""
+msgstr "Station de Recherche"
 
 #. STRINGS.BUILDINGS.PREFABS.SCULPTURE.AVERAGEQUALITYNAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SCULPTURE.AVERAGEQUALITYNAME"
 msgid "Mediocre Sculpture"
-msgstr ""
+msgstr "Sculpture Médiocre"
 
 #. STRINGS.BUILDINGS.PREFABS.SCULPTURE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SCULPTURE.DESC"
@@ -2668,6 +2708,8 @@ msgid ""
 "An object of questionable form and no discernible function.\n"
 "The Duplicants love it."
 msgstr ""
+"Un objet de forme douteuse, sans réelle utilité. \n"
+"Les Clones l'adorent."
 
 #. STRINGS.BUILDINGS.PREFABS.SCULPTURE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.SCULPTURE.EFFECT"
@@ -2677,21 +2719,25 @@ msgid ""
 "\n"
 "Must be sculpted by a Duplicant."
 msgstr ""
+"Augmente l'<style=\"decor\">Opinion du Décor</style> et réduit le <style=\"stress"
+"\">Stress des Clones</style>. \n"
+"\n"
+"Doit être sculpté par un Clone."
 
 #. STRINGS.BUILDINGS.PREFABS.SCULPTURE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SCULPTURE.NAME"
 msgid "Sculpting Block"
-msgstr ""
+msgstr "Bloc à Sculter"
 
 #. STRINGS.BUILDINGS.PREFABS.SCULPTURE.POORQUALITYNAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SCULPTURE.POORQUALITYNAME"
 msgid "\"Abstract\" Sculpture"
-msgstr ""
+msgstr "Sculpture \"Abstraite\""
 
 #. STRINGS.BUILDINGS.PREFABS.SHOWER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SHOWER.DESC"
 msgid "Very few things in life can top a nice, hot shower."
-msgstr ""
+msgstr "Très peu de choses dans la vie sont aussi agréables qu'une douche bien chaude."
 
 #. STRINGS.BUILDINGS.PREFABS.SHOWER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.SHOWER.EFFECT"
@@ -2699,11 +2745,13 @@ msgid ""
 "Prevents <style=\"disease\">Disease</style> by improving Duplicant <style=\"hygiene"
 "\">Hygiene</style>."
 msgstr ""
+"Réduit le risque de <style=\"disease\">Maladie</style> en améliorant l'<style=\"hygiene"
+"\">Hygiène</style> des Clones."
 
 #. STRINGS.BUILDINGS.PREFABS.SHOWER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SHOWER.NAME"
 msgid "Shower"
-msgstr ""
+msgstr "Douche"
 
 #. STRINGS.BUILDINGS.PREFABS.SMELTER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SMELTER.DESC"
@@ -2711,6 +2759,8 @@ msgid ""
 "Whoever smelt it, dealt it!\n"
 "Oh, goodness, that was a vulgar crack."
 msgstr ""
+"Celui qui le fait, en profite!\n"
+"Je m'arrête là avant de devenir vulguaire..."
 
 #. STRINGS.BUILDINGS.PREFABS.SMELTER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.SMELTER.EFFECT"
@@ -2720,11 +2770,16 @@ msgid ""
 "\n"
 "Duplicants will not fabricate unless recipes are queued."
 msgstr ""
+"Convertit le <style=\"RawMetal\">Métal Brut</style> en <style=\"RefinedMetal\">Métal "
+"Raffiné</style>.\n"
+"\n"
+"Les Clones n'en fabriqueront pas à moins que des recettes ne soient mises dans la file "
+"d'attente."
 
 #. STRINGS.BUILDINGS.PREFABS.SMELTER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SMELTER.NAME"
 msgid "Smelter"
-msgstr ""
+msgstr "Fonderie"
 
 #. STRINGS.BUILDINGS.PREFABS.SPACEHEATER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SPACEHEATER.DESC"
@@ -2732,32 +2787,36 @@ msgid ""
 "Stave off frostbite with this heartwarming doodad.\n"
 "(Warms other body parts too!)"
 msgstr ""
+"Évitez les gelures avec cet gadget réconfortant.\n"
+"(Réchauffe aussi les autres parties du corps!)"
 
 #. STRINGS.BUILDINGS.PREFABS.SPACEHEATER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.SPACEHEATER.EFFECT"
 msgid ""
 "Produces a moderate amount of <style=\"heat\">Heat</style> in its immediate vicinity."
 msgstr ""
+"Rejette une quantité modérée de <style=\"heat\">Chaleur</style> dans son environnement "
+"immédiat."
 
 #. STRINGS.BUILDINGS.PREFABS.SPACEHEATER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SPACEHEATER.NAME"
 msgid "Space Heater"
-msgstr ""
+msgstr "Appareil de Chauffage"
 
 #. STRINGS.BUILDINGS.PREFABS.STORAGELOCKER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.STORAGELOCKER.DESC"
 msgid "Keep your clutter off the floor!"
-msgstr ""
+msgstr "Gardez votre sol sans encombrement!"
 
 #. STRINGS.BUILDINGS.PREFABS.STORAGELOCKER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.STORAGELOCKER.EFFECT"
 msgid "Stores the resources of your choosing."
-msgstr ""
+msgstr "Entrepose les ressources de votre choix."
 
 #. STRINGS.BUILDINGS.PREFABS.STORAGELOCKER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.STORAGELOCKER.NAME"
 msgid "Storage Compactor"
-msgstr ""
+msgstr "Entreposage Compact"
 
 #. STRINGS.BUILDINGS.PREFABS.SUITFABRICATOR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SUITFABRICATOR.DESC"
