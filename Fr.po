@@ -2888,7 +2888,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.SWITCH.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SWITCH.NAME"
 msgid "Power Switch"
-msgstr "Interrupteur d'Alimentation"
+msgstr "Interrupteur Électrique"
 
 #. STRINGS.BUILDINGS.PREFABS.TILE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.TILE.DESC"
@@ -5106,131 +5106,133 @@ msgstr "Toutes les Maladies"
 msgctxt "STRINGS.DUPLICANTS.DISEASES.BOOSTSCURESPEED"
 msgid "Heal speed (<style=\"disease\">{0}</style>): <style=\"produced\">+{1}</style>"
 msgstr ""
+"Vitesse de Guérison (<style=\"disease\">{0}</style>): <style=\"produced\">+{1}</style>"
 
 #. STRINGS.DUPLICANTS.DISEASES.CURED_POPUP
 msgctxt "STRINGS.DUPLICANTS.DISEASES.CURED_POPUP"
 msgid "Cured of <style=\"disease\">{0}</style>"
-msgstr ""
+msgstr "Guéri de <style=\"disease\">{0}</style>"
 
 #. STRINGS.DUPLICANTS.DISEASES.CURES
 msgctxt "STRINGS.DUPLICANTS.DISEASES.CURES"
 msgid "Instantly cures <style=\"disease\">{0}</style>"
-msgstr ""
+msgstr "Guérison instantanée <style=\"disease\">{0}</style>"
 
 #. STRINGS.DUPLICANTS.DISEASES.DIARRHEA.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.DISEASES.DIARRHEA.DESCRIPTION"
 msgid "This Duplicant's gut is giving them some trouble"
-msgstr ""
+msgstr "L'intestin de ce Clone lui donne des problèmes"
 
 #. STRINGS.DUPLICANTS.DISEASES.DIARRHEA.NAME
 msgctxt "STRINGS.DUPLICANTS.DISEASES.DIARRHEA.NAME"
 msgid "Diarrhea"
-msgstr ""
+msgstr "Diarrhée"
 
 #. STRINGS.DUPLICANTS.DISEASES.DISEASE_TRIGGER_EAT
 msgctxt "STRINGS.DUPLICANTS.DISEASES.DISEASE_TRIGGER_EAT"
 msgid "May cause <style=\"disease\">{Diseases}</style>"
-msgstr ""
+msgstr "Peut causer <style=\"disease\">{Diseases}</style>"
 
 #. STRINGS.DUPLICANTS.DISEASES.DWEEBCEPHALY.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.DISEASES.DWEEBCEPHALY.DESCRIPTION"
 msgid "This Duplicant is experiencing some cognitive impairment"
-msgstr ""
+msgstr "Ce Clone souffre de déficience cognitive"
 
 #. STRINGS.DUPLICANTS.DISEASES.DWEEBCEPHALY.NAME
 msgctxt "STRINGS.DUPLICANTS.DISEASES.DWEEBCEPHALY.NAME"
 msgid "Brain Fog"
-msgstr ""
+msgstr "Brouillard Cérébral"
 
 #. STRINGS.DUPLICANTS.DISEASES.FOODPOISONING.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.DISEASES.FOODPOISONING.DESCRIPTION"
 msgid "This Duplicant's last meal might have been past its prime"
-msgstr ""
+msgstr "Le dernier repas de ce Clone devait être périmé"
 
 #. STRINGS.DUPLICANTS.DISEASES.FOODPOISONING.NAME
 msgctxt "STRINGS.DUPLICANTS.DISEASES.FOODPOISONING.NAME"
 msgid "Food Poisoning"
-msgstr ""
+msgstr "Intoxication Alimentaire"
 
 #. STRINGS.DUPLICANTS.DISEASES.INFECTED_POPUP
 msgctxt "STRINGS.DUPLICANTS.DISEASES.INFECTED_POPUP"
 msgid "Became infected by <style=\"disease\">{0}</style>"
-msgstr ""
+msgstr "A été infecté par"
 
 #. STRINGS.DUPLICANTS.DISEASES.INFECTIONSOURCES.FOOD
 msgctxt "STRINGS.DUPLICANTS.DISEASES.INFECTIONSOURCES.FOOD"
 msgid "eating a {0}"
-msgstr ""
+msgstr "mange {0}"
 
 #. STRINGS.DUPLICANTS.DISEASES.INFECTIONSOURCES.TOXIC_AREA
 msgctxt "STRINGS.DUPLICANTS.DISEASES.INFECTIONSOURCES.TOXIC_AREA"
 msgid "standing in a toxic area"
-msgstr ""
+msgstr "est dans une zone toxique"
 
 #. STRINGS.DUPLICANTS.DISEASES.LAZIBONITIS.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.DISEASES.LAZIBONITIS.DESCRIPTION"
 msgid "This Duplicant really doesn't feel like working right now"
-msgstr ""
+msgstr "Ce Clone n'a vraiment pas envie de travailler en ce moment"
 
 #. STRINGS.DUPLICANTS.DISEASES.LAZIBONITIS.NAME
 msgctxt "STRINGS.DUPLICANTS.DISEASES.LAZIBONITIS.NAME"
 msgid "The Lackadaisies"
-msgstr ""
+msgstr "La SansDesir"
 
 #. STRINGS.DUPLICANTS.DISEASES.NOMEDICINETAKEN
 msgctxt "STRINGS.DUPLICANTS.DISEASES.NOMEDICINETAKEN"
 msgid "None"
-msgstr ""
+msgstr "Aucun"
 
 #. STRINGS.DUPLICANTS.DISEASES.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.DISEASES.NOTIFICATION_TOOLTIP"
 msgid "{0} was infected with <style=\"disease\">{1}</style> by {2}"
-msgstr ""
+msgstr "{0} a été infecté avec <style=\"disease\">{1}</style> par {2}"
 
 #. STRINGS.DUPLICANTS.DISEASES.PUTRIDODOUR.CRINGE_EFFECT
 msgctxt "STRINGS.DUPLICANTS.DISEASES.PUTRIDODOUR.CRINGE_EFFECT"
 msgid "Smelled a putrid odor"
-msgstr ""
+msgstr "a Senti une odeur putride"
 
 #. STRINGS.DUPLICANTS.DISEASES.PUTRIDODOUR.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.DISEASES.PUTRIDODOUR.DESCRIPTION"
 msgid "The pungent odor wafting off this Duplicant is nauseating their peers"
-msgstr ""
+msgstr "L'odeur rance qui émane  de ce Clone donne la nausée à son entourage"
 
 #. STRINGS.DUPLICANTS.DISEASES.PUTRIDODOUR.NAME
 msgctxt "STRINGS.DUPLICANTS.DISEASES.PUTRIDODOUR.NAME"
 msgid "Trench Stench"
-msgstr ""
+msgstr "Puanteur"
 
 #. STRINGS.DUPLICANTS.DISEASES.RECUPERATING
 msgctxt "STRINGS.DUPLICANTS.DISEASES.RECUPERATING"
 msgid "Sleeping it off"
-msgstr ""
+msgstr "Dormir"
 
 #. STRINGS.DUPLICANTS.DISEASES.REDUCECURESPEED
 msgctxt "STRINGS.DUPLICANTS.DISEASES.REDUCECURESPEED"
 msgid "Heal speed (<style=\"disease\">{0}</style>): <style=\"consumed\">{1}</style>"
 msgstr ""
+"Vitesse de guérison (<style=\"disease\">{0}</style>): <style=\"consumed\">{1}</style>"
 
 #. STRINGS.DUPLICANTS.DISEASES.SAWCORPSOSIS.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.DISEASES.SAWCORPSOSIS.DESCRIPTION"
 msgid "This Duplicant saw the corpse of a friend"
-msgstr ""
+msgstr "Ce Clone a vu le cadavre d'un ami"
 
 #. STRINGS.DUPLICANTS.DISEASES.SAWCORPSOSIS.NAME
 msgctxt "STRINGS.DUPLICANTS.DISEASES.SAWCORPSOSIS.NAME"
 msgid "Existential Angst"
-msgstr ""
+msgstr "Questionnement Existentiel"
 
 #. STRINGS.DUPLICANTS.DISEASES.SPORES.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.DISEASES.SPORES.DESCRIPTION"
 msgid "This Duplicant is a walking fungal pod"
-msgstr ""
+msgstr "Ce Clone est une colonie fongique sur pattes"
 
 #. STRINGS.DUPLICANTS.DISEASES.SPORES.NAME
 msgctxt "STRINGS.DUPLICANTS.DISEASES.SPORES.NAME"
 msgid "The Spores"
-msgstr ""
+msgstr "Les Spores"
 
 #. STRINGS.DUPLICANTS.DISEASES.STATUS_ITEM_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.DISEASES.STATUS_ITEM_TOOLTIP"
@@ -5241,91 +5243,96 @@ msgid ""
 "Duration remaining: {Duration}\n"
 "Remedies: <style=\"medicine\">{Cures}</style>"
 msgstr ""
+"{Symptoms}\n"
+"\n"
+"Infecté par {InfectionSource}\n"
+"Durée restante: {Duration}\n"
+"Remèdes: <style=\"medicine\">{Cures}</style>"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.ANEWHOPE.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.ANEWHOPE.NAME"
 msgid "New Hope"
-msgstr ""
+msgstr "Nouvel Espoir"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.ANEWHOPE.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.ANEWHOPE.TOOLTIP"
 msgid "This Duplicant feels pretty optimistic about their new home"
-msgstr ""
+msgstr "Ce Clone est plutôt optimiste à propos de sa nouvelle maison"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.BASEDUPLICANT.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.BASEDUPLICANT.NAME"
 msgid "Duplicant"
-msgstr ""
+msgstr "Clone"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.BREATHING.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.BREATHING.NAME"
 msgid "Breathing"
-msgstr ""
+msgstr "Respiration"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.BURNINGCALORIES.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.BURNINGCALORIES.NAME"
 msgid "Burning calories"
-msgstr ""
+msgstr "Brûle des calories"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.COLD.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.COLD.NAME"
 msgid "Cold"
-msgstr ""
+msgstr "Froid"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.COLD.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.COLD.TOOLTIP"
 msgid "This Duplicant is uncomfortably cold"
-msgstr ""
+msgstr "Le froid rend ce Clone inconfortable"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.DARKNESS.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.DARKNESS.NAME"
 msgid "Darkness"
-msgstr ""
+msgstr "Obscurité"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.DARKNESS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.DARKNESS.TOOLTIP"
 msgid "This Duplicant doesn't like being in the dark!"
-msgstr ""
+msgstr "Ce Duplicant n'aime pas être dans le noir!"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.DEAD.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.DEAD.NAME"
 msgid "Dead"
-msgstr ""
+msgstr "Mort"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.DIRTYHANDS.CAUSE
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.DIRTYHANDS.CAUSE"
 msgid "Obtained through prolonged digging or construction"
-msgstr ""
+msgstr "Obtenu après avoir creusé ou construit longtemps"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.DIRTYHANDS.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.DIRTYHANDS.NAME"
 msgid "Dirty Hands"
-msgstr ""
+msgstr "Mains Sales"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.DIRTYHANDS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.DIRTYHANDS.TOOLTIP"
 msgid "This Duplicant needs to <style=\"hygiene\">Wash</style> their hands"
-msgstr ""
+msgstr "Ce Clone doit aller <style=\"hygiene\">Laver</style> ses mains"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.DISTURBEDSLEEP.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.DISTURBEDSLEEP.NAME"
 msgid "Disturbed Sleep"
-msgstr ""
+msgstr "Troubles du Sommeil"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.DISTURBEDSLEEP.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.DISTURBEDSLEEP.TOOLTIP"
 msgid "This Duplicant's sleep was disturbed"
-msgstr ""
+msgstr "Le sommeil de ce Clone a été perturbé"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.EATINGCALORIES.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.EATINGCALORIES.NAME"
 msgid "Eating"
-msgstr ""
+msgstr "Manger"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.ENTITLEMENT.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.ENTITLEMENT.NAME"
 msgid "Entitlement"
-msgstr ""
+msgstr "Sous une Tuile"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.ENTITLEMENT.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.ENTITLEMENT.TOOLTIP"
@@ -5333,91 +5340,93 @@ msgid ""
 "Duplicants will demand better <style=\"decor\">Decor</style> and accommodations with "
 "each skill level they gain"
 msgstr ""
+"Les Clones exigeront un meilleur <style=\"decor\">Décor</style> et plus d'aménagements "
+"à mesure que leurs niveaux de compétence augmentera"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.FULLBLADDER.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.FULLBLADDER.NAME"
 msgid "Full Bladder"
-msgstr ""
+msgstr "Vessie Pleine"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.FULLBLADDER.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.FULLBLADDER.TOOLTIP"
 msgid "This Duplicant's bladder is full"
-msgstr ""
+msgstr "La vessie de ce Clone est pleine"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.FUSSY.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.FUSSY.NAME"
 msgid "Fussy"
-msgstr ""
+msgstr "Difficile"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.FUSSY.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.FUSSY.TOOLTIP"
 msgid "This Duplicant is hard to please"
-msgstr ""
+msgstr "Ce Clone est difficile à satisfaire"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.HOLDINGBREATH.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.HOLDINGBREATH.NAME"
 msgid "Holding Breath"
-msgstr ""
+msgstr "Retient son souffle"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.HOMEOSTASIS.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.HOMEOSTASIS.NAME"
 msgid "Homeostasis"
-msgstr ""
+msgstr "Homéostasie "
 
 #. STRINGS.DUPLICANTS.MODIFIERS.HOT.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.HOT.NAME"
 msgid "Hot"
-msgstr ""
+msgstr "Surchauffe"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.HOT.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.HOT.TOOLTIP"
 msgid "This Duplicant is uncomfortably warm"
-msgstr ""
+msgstr "Ce Clone a désagréablement chaud"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.HUNGRY.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.HUNGRY.NAME"
 msgid "Hungry"
-msgstr ""
+msgstr "Affamé"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.HUNGRY.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.HUNGRY.TOOLTIP"
 msgid "This Duplicant is ready for lunch"
-msgstr ""
+msgstr "Ce Clone a hâte de manger"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.INSPIRED.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.INSPIRED.NAME"
 msgid "Inspired"
-msgstr ""
+msgstr "Inspiré"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.INSPIRED.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.INSPIRED.TOOLTIP"
 msgid "This Duplicant has had a creative vision!"
-msgstr ""
+msgstr "Ce Clone a eu une vision créative!"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.INTERRUPTEDSLEEP.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.INTERRUPTEDSLEEP.NAME"
 msgid "Interrupted Sleep"
-msgstr ""
+msgstr "Sommeil Interrompu"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.INTERRUPTEDSLEEP.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.INTERRUPTEDSLEEP.TOOLTIP"
 msgid "This Duplicant was rudely awoken"
-msgstr ""
+msgstr "Ce Clone a été réveillé brutalement"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.LIGHTWOUNDS.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.LIGHTWOUNDS.NAME"
 msgid "Light wounds"
-msgstr ""
+msgstr "Blessures mineures"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.LIGHTWOUNDS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.LIGHTWOUNDS.TOOLTIP"
 msgid "This Duplicant's injuries are a bit uncomfortable"
-msgstr ""
+msgstr "Les blessures de ce Clone le rendent inconfortable"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.MENTALBREAK.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.MENTALBREAK.NAME"
 msgid "Nervous Breakdown"
-msgstr ""
+msgstr "Dépression Nerveuse"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.MENTALBREAK.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.MENTALBREAK.TOOLTIP"
@@ -5425,272 +5434,277 @@ msgid ""
 "<style=\"stress\">Stress</style> has completely eroded this Duplicant's ability to "
 "function"
 msgstr ""
+"Le <style=\"stress\">Stress</style> a complètement érodé la capacité de ce Clone à "
+"fonctionner"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.MODERATEWOUNDS.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.MODERATEWOUNDS.NAME"
 msgid "Moderate wounds"
-msgstr ""
+msgstr "Blessures Modérées"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.MODERATEWOUNDS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.MODERATEWOUNDS.TOOLTIP"
 msgid "This Duplicants' injuries are affecting their ability to work"
-msgstr ""
+msgstr "Les blessures de ces Clone affectent sa capacité de travailler"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.MOURNING.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.MOURNING.NAME"
 msgid "Mourning"
-msgstr ""
+msgstr "Deuil"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.MOURNING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.MOURNING.TOOLTIP"
 msgid "This Duplicant is grieving the loss of a friend"
-msgstr ""
+msgstr "Ce Clone est affligé de la perte d'un ami"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.NARCOLEPTICSLEEP.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.NARCOLEPTICSLEEP.NAME"
 msgid "Narcoleptic Sleep"
-msgstr ""
+msgstr "Sommeil Narcoleptique"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.NARCOLEPTICSLEEP.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.NARCOLEPTICSLEEP.TOOLTIP"
 msgid "This Duplicant just needs to rest their eyes for a second"
-msgstr ""
+msgstr "Ce Clone a juste besoin de reposer les yeux pour une seconde"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.NEWCREWARRIVAL.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.NEWCREWARRIVAL.NAME"
 msgid "New Friend"
-msgstr ""
+msgstr "Nouvel Ami"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.NEWCREWARRIVAL.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.NEWCREWARRIVAL.TOOLTIP"
 msgid "This Duplicant is happy to see a new face in the colony!"
-msgstr ""
+msgstr "Ce Clone est heureux de voir un nouveau visage dans la colonie!"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.NIGHTMARES.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.NIGHTMARES.NAME"
 msgid "Nightmares"
-msgstr ""
+msgstr "Cauchemars"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.NIGHTMARES.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.NIGHTMARES.TOOLTIP"
 msgid "This Duplicant was visited by something in the night"
-msgstr ""
+msgstr "Ce Clone a reçu la visite de quelque chose dans la nuit"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.NOSTRESSCREATOR.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.NOSTRESSCREATOR.NAME"
 msgid "None"
-msgstr ""
+msgstr "Aucun"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.RECOVERINGBREATH.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.RECOVERINGBREATH.NAME"
 msgid "Recovering Breath"
-msgstr ""
+msgstr "Reprend son souffle"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.REDALERT.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.REDALERT.NAME"
 msgid "Red Alert"
-msgstr ""
+msgstr "Alerte Rouge"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.REDALERT.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.REDALERT.TOOLTIP"
 msgid "This Duplicant is <style=\"stress\">Stressed</style> out by the current Red Alert"
-msgstr ""
+msgstr "Ce Clone est <style=\"stress\">Stressé</style> par l'Alerte Rouge en cours"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.RESTFULSLEEP.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.RESTFULSLEEP.NAME"
 msgid "Restful Sleep"
-msgstr ""
+msgstr "Sommeil Réparateur"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.RESTFULSLEEP.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.RESTFULSLEEP.TOOLTIP"
 msgid "This Duplicant is sleeping peacefully"
-msgstr ""
+msgstr "Ce Clone dort paisiblement"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.RESTING.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.RESTING.NAME"
 msgid "Resting"
-msgstr ""
+msgstr "Repos"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.ROTTING.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.ROTTING.NAME"
 msgid "Rotting"
-msgstr ""
+msgstr "Pourris"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.SEVEREWOUNDS.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.SEVEREWOUNDS.NAME"
 msgid "Severe wounds"
-msgstr ""
+msgstr "Blessures graves"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.SEVEREWOUNDS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.SEVEREWOUNDS.TOOLTIP"
 msgid "This Duplicant's injuries are severely affecting their work and well-being"
-msgstr ""
+msgstr "Les blessures de ce Clone affectent gravement son travail et son bien-être"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.SKILLLEVEL.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.SKILLLEVEL.NAME"
 msgid "Skill Level"
-msgstr ""
+msgstr "Niveau de Compétence"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.SLEEP.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.SLEEP.NAME"
 msgid "Sleeping"
-msgstr ""
+msgstr "Dors"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.SLEEP.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.SLEEP.TOOLTIP"
 msgid "This Duplicant is recovering stamina"
-msgstr ""
+msgstr "Ce Clone reprend de l'endurance"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.SLEEPY.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.SLEEPY.NAME"
 msgid "Sleepy"
-msgstr ""
+msgstr "Somnole"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.SLEEPY.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.SLEEPY.TOOLTIP"
 msgid "This Duplicant is getting tired"
-msgstr ""
+msgstr "Ce Clone est fatigué"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.SMELLEDPUTRIDODOUR.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.SMELLEDPUTRIDODOUR.NAME"
 msgid "Smelled Putrid Odor"
-msgstr ""
+msgstr "A Senti une Odeur Putride"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.SMELLEDPUTRIDODOUR.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.SMELLEDPUTRIDODOUR.TOOLTIP"
 msgid "This Duplicant smelled something unspeakably foul"
-msgstr ""
+msgstr "Ce Clone a senti quelque chose d'incroyablement dégoutant"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.SOREBACK.CAUSE
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.SOREBACK.CAUSE"
 msgid "Obtained by sleeping on the ground"
-msgstr ""
+msgstr "Obtenu en dormant sur le sol"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.SOREBACK.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.SOREBACK.NAME"
 msgid "Sore Back"
-msgstr ""
+msgstr "Mal de dos"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.SOREBACK.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.SOREBACK.TOOLTIP"
 msgid "This Duplicant was forced to sleep on the floor and would appreciate their own bed"
 msgstr ""
+"Ce Clone a été contraint de dormir sur le sol et apprécierait d'avoir son propre lit"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.STALEFOOD.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.STALEFOOD.NAME"
 msgid "Stale Food"
-msgstr ""
+msgstr "Aliments Périmés"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.STALEFOOD.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.STALEFOOD.TOOLTIP"
 msgid ""
 "This Duplicant is in a bad mood from having to eat stale <style=\"food\">Food</style>"
 msgstr ""
+"Ce Clone est de mauvaise humeur car il a mangé de la <style=\"food\">Nourriture</style> "
+"avariée"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.STARVING.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.STARVING.NAME"
 msgid "Starving"
-msgstr ""
+msgstr "Affamé"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.STARVING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.STARVING.TOOLTIP"
 msgid "This Duplicant needs to eat something, soon"
-msgstr ""
+msgstr "Ce Clone a besoin de manger quelque chose, rapidement"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.STEPPEDINCONTAMINATEDWATER.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.STEPPEDINCONTAMINATEDWATER.NAME"
 msgid "Stepped In Contaminated Water"
-msgstr ""
+msgstr "A marché dans l'Eau Contaminée"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.STEPPEDINCONTAMINATEDWATER.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.STEPPEDINCONTAMINATEDWATER.TOOLTIP"
 msgid "This Duplicant stepped in dirty water and was super grossed out"
-msgstr ""
+msgstr "Ce Clone a marché dans de l'eau contaminée est vraiment dégouté"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.STRESSFULYEMPTYINGBLADDER.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.STRESSFULYEMPTYINGBLADDER.NAME"
 msgid "Making a Mess"
-msgstr ""
+msgstr "Fait un dégât"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.STRESSFULYEMPTYINGBLADDER.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.STRESSFULYEMPTYINGBLADDER.TOOLTIP"
 msgid "This Duplicant had no choice but to to empty their bladder"
-msgstr ""
+msgstr "Ce Clone n'avait d'autre choix que de vider sa vessie"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.STRESSREDUCTION.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.STRESSREDUCTION.TOOLTIP"
 msgid "This Duplicant's <style=\"stress\">Stress</style> is just melting away"
-msgstr ""
+msgstr "Le <style=\"stress\">Stress</style> de ce Clone fond à vue d'œil"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.TEMPEXCHANGE.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.TEMPEXCHANGE.NAME"
 msgid "Environmental exchange"
-msgstr ""
+msgstr "Échange environnemental"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.TOXICENVIRONMENT.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.TOXICENVIRONMENT.NAME"
 msgid "Toxic Environment"
-msgstr ""
+msgstr "Environnement toxique"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.UNCLEAN.CAUSE
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.UNCLEAN.CAUSE"
 msgid "Obtained by coming into contact with contaminated material"
-msgstr ""
+msgstr "Obtenue suite à un contact avec du matériel contaminé"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.UNCLEAN.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.UNCLEAN.NAME"
 msgid "Grimy"
-msgstr ""
+msgstr "Crasseux"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.UNCLEAN.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.UNCLEAN.TOOLTIP"
 msgid "This Duplicant would appreciate a <style=\"hygiene\">Shower</style>"
-msgstr ""
+msgstr "Ce Clone apprécierait une <style=\"hygiene\">Douche</style>"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.UNCOMFORTABLESLEEP.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.UNCOMFORTABLESLEEP.NAME"
 msgid "Uncomfortable Sleep"
-msgstr ""
+msgstr "Sommeil Inconfortable"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.UNCOMFORTABLESLEEP.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.UNCOMFORTABLESLEEP.TOOLTIP"
 msgid "This Duplicant collapsed from sheer exhaustion"
-msgstr ""
+msgstr "Ce Clone est tombé d'épuisement"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.UNDERWATER.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.UNDERWATER.NAME"
 msgid "Underwater"
-msgstr ""
+msgstr "Sous l'eau"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.UNDERWATER.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.UNDERWATER.TOOLTIP"
 msgid "This Duplicant's movement is slowed"
-msgstr ""
+msgstr "Les mouvements de ce Clone sont ralentis"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.VOMITING.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.VOMITING.NAME"
 msgid "Vomiting"
-msgstr ""
+msgstr "Vomit"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.VOMITING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.VOMITING.TOOLTIP"
 msgid "Better out than in, as they say"
-msgstr ""
+msgstr "Mieux vaut dehors que dedans, comme on dit"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.WARMINGUP.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.WARMINGUP.NAME"
 msgid "Warming Up"
-msgstr ""
+msgstr "Se Réchauffe"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.WARMINGUP.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.WARMINGUP.TOOLTIP"
 msgid "This Duplicant is trying to warm back up"
-msgstr ""
+msgstr "Ce Clone essaie de se réchauffer"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.WASATTACKED.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.WASATTACKED.NAME"
 msgid "Was attacked"
-msgstr ""
+msgstr "Est Attaqué"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.WASATTACKED.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.WASATTACKED.TOOLTIP"
@@ -5698,26 +5712,28 @@ msgid ""
 "This Duplicant was recently attacked by something and it <style=\"stress\">Stressed</"
 "style> them out"
 msgstr ""
+"Ce Clone a été récemment attaqué par quelque chose et cela l'a <style=\"stress"
+"\">Stressé</style>"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.WELLFED.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.WELLFED.NAME"
 msgid "Well Fed"
-msgstr ""
+msgstr "Bien Nourri"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.WELLFED.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.WELLFED.TOOLTIP"
 msgid "This Duplicant feels satisfied after having a big meal"
-msgstr ""
+msgstr "Ce Clone se sent satisfait après avoir mangé un bon repas"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.WORKING.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.WORKING.NAME"
 msgid "Working"
-msgstr ""
+msgstr "Travaille"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.WORKING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.WORKING.TOOLTIP"
 msgid "This Duplicant is working up a sweat"
-msgstr ""
+msgstr "Ce Clone travaille à la sueur de son front"
 
 #. STRINGS.DUPLICANTS.NEEDS.DECOR.EXPECTATION_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.NEEDS.DECOR.EXPECTATION_TOOLTIP"
@@ -5729,16 +5745,23 @@ msgid ""
 "A Duplicant's expectations will increase as they level up and become better at their "
 "jobs."
 msgstr ""
+"Les zones ayant un indice de <style=\"decor\">Décoration</style> inférieur aux <style="
+"\"decor\">Attentes de Décoration</style> d'un Clone entraîneront une augmentation de "
+"son <style=\"stress\">Stress</style>,\n"
+"tandis qu'un indice plus élevé fera tomber son stress.\n"
+"\n"
+"Les attentes d'un Clone augmenteront à mesure qu'il monte de niveau et qu'il s'améliore "
+"dans son travail."
 
 #. STRINGS.DUPLICANTS.NEEDS.DECOR.NAME
 msgctxt "STRINGS.DUPLICANTS.NEEDS.DECOR.NAME"
 msgid "Decor Expectation"
-msgstr ""
+msgstr "Attentes de Décoration"
 
 #. STRINGS.DUPLICANTS.NEEDS.DECOR.OBSERVED_DECOR
 msgctxt "STRINGS.DUPLICANTS.NEEDS.DECOR.OBSERVED_DECOR"
 msgid "Surroundings"
-msgstr ""
+msgstr "Alentours"
 
 #. STRINGS.DUPLICANTS.NEEDS.DECOR.PROFESSION_NAME
 msgctxt "STRINGS.DUPLICANTS.NEEDS.DECOR.PROFESSION_NAME"
@@ -5749,11 +5772,13 @@ msgstr ""
 msgctxt "STRINGS.DUPLICANTS.OPINIONS.DARKNESS"
 msgid "There's too little <style=\"light\">Light</style> for this Duplicant to see."
 msgstr ""
+"Il y a trop peu de <style=\"light\">Lumière</style> pour que le Clone puisse voir."
 
 #. STRINGS.DUPLICANTS.OPINIONS.LIGHTNESS
 msgctxt "STRINGS.DUPLICANTS.OPINIONS.LIGHTNESS"
 msgid "There is enough <style=\"light\">Light</style> for this Duplicant to see."
 msgstr ""
+"Il y a suffisamment de <style=\"light\">Lumière</style> pour que le Clone puisse voir."
 
 #. STRINGS.DUPLICANTS.OPINIONS.LIGHTOPINION
 msgctxt "STRINGS.DUPLICANTS.OPINIONS.LIGHTOPINION"
@@ -5762,6 +5787,10 @@ msgid ""
 "Make sure your Duplicants have plenty of <style=\"light\">Light</style> to keep their "
 "eyes unstrained and their <style=\"stress\">Stress</style> low."
 msgstr ""
+"Les Clones sont attirés vers les endroits éclairés, et n'aiment pas être dans "
+"l'obscurité.\n"
+"Assurez-vous que vos Clones ont beaucoup de <style=\"light\">Lumière</style> afin qu'il "
+"puissent voir clair et que leur <style=\"stress\">Stress</style> reste bas."
 
 #. STRINGS.DUPLICANTS.OPINIONS.MESSHALLWALLSOPINION
 msgctxt "STRINGS.DUPLICANTS.OPINIONS.MESSHALLWALLSOPINION"
@@ -5769,11 +5798,14 @@ msgid ""
 "Duplicants don't find bare rockface very inviting.\n"
 "Use wall tiles and doors to build more comfortable Mess Halls for them."
 msgstr ""
+"Les Clones ne trouvent pas les parois rocheuses très invitantes.\n"
+"Utilisez des tuiles et des portes pour construire une salle à manger plus confortable "
+"pour eux."
 
 #. STRINGS.DUPLICANTS.OPINIONS.ROOMWALLSMISSING
 msgctxt "STRINGS.DUPLICANTS.OPINIONS.ROOMWALLSMISSING"
 msgid "Room is missing walls or doors."
-msgstr ""
+msgstr "Cette pièce n'a pas de mur ou de porte."
 
 #. STRINGS.DUPLICANTS.OPINIONS.ROOMWALLSOPINION
 msgctxt "STRINGS.DUPLICANTS.OPINIONS.ROOMWALLSOPINION"
@@ -5781,16 +5813,18 @@ msgid ""
 "Duplicants don't find bare rockface very inviting.\n"
 "Use wall tiles and doors to build more comfortable Rooms for them."
 msgstr ""
+"Les Clones ne trouvent pas les parois rocheuses très invitantes.\n"
+"Utilisez des tuiles et des portes pour construire des pièces plus confortable pour eux."
 
 #. STRINGS.DUPLICANTS.OPINIONS.ROOMWALLSSTANDARD
 msgctxt "STRINGS.DUPLICANTS.OPINIONS.ROOMWALLSSTANDARD"
 msgid "Room is enclosed by walls and doors."
-msgstr ""
+msgstr "La pièce est bordée par des murs et des portes."
 
 #. STRINGS.DUPLICANTS.OPINIONS.TOILETWALLSMISSING
 msgctxt "STRINGS.DUPLICANTS.OPINIONS.TOILETWALLSMISSING"
 msgid "Restroom is missing walls or doors."
-msgstr ""
+msgstr "Salle de bain n'a pas de mur ou de porte."
 
 #. STRINGS.DUPLICANTS.OPINIONS.TOILETWALLSOPINION
 msgctxt "STRINGS.DUPLICANTS.OPINIONS.TOILETWALLSOPINION"
@@ -5798,11 +5832,14 @@ msgid ""
 "Duplicants like a little privacy when they do their biz.\n"
 "Use wall tiles and doors to build more comfortable Washrooms for them."
 msgstr ""
+"Les Clones aiment un peu d'intimité quand ils font leur petite affaire.\n"
+"Utiliser des tuiles et des portes pour construire des toilettes plus confortables pour "
+"eux."
 
 #. STRINGS.DUPLICANTS.OPINIONS.TOILETWALLSSTANDARD
 msgctxt "STRINGS.DUPLICANTS.OPINIONS.TOILETWALLSSTANDARD"
 msgid "Restroom is enclosed by walls and doors."
-msgstr ""
+msgstr "La salle de bain est bordée par des murs et des portes."
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.ABE.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.ABE.DESC"
@@ -5810,32 +5847,36 @@ msgid ""
 "{0}s are sweet, delicate flowers. They need to be treated gingerly, and with great "
 "consideration for their feelings."
 msgstr ""
+"{0}s sont des fleurs douces et délicates. Elles doivent être traités avec douceur, et "
+"avec une grande considération pour leurs sentiments."
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.ABE.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.ABE.NAME"
 msgid "Abe"
-msgstr ""
+msgstr "Abe"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.ADA.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.ADA.DESC"
 msgid "{0}s enjoy writing poetry in their downtime. Dark poetry."
-msgstr ""
+msgstr "{0} s apprécient écrire la poésie dans leur temps libres. De la Poésie lugubre."
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.ADA.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.ADA.NAME"
 msgid "Ada"
-msgstr ""
+msgstr "Ada"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.ARCHIBALD.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.ARCHIBALD.DESC"
 msgid ""
 "The colony is convinced that this {0} was some sort of fancy monarch in a past life."
 msgstr ""
+"La colonie est convaincue que cette {0} était une sorte de monarque de capricieux dans "
+"une vie passée."
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.ARCHIBALD.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.ARCHIBALD.NAME"
 msgid "Archibald"
-msgstr ""
+msgstr "Archibald"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.BEA.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.BEA.DESC"
@@ -5843,11 +5884,12 @@ msgid ""
 "A little ray of sunshine in a bleak world, {0}s loves people and they love her right "
 "back."
 msgstr ""
+"Un petit rayon de soleil dans un monde sombre, {0} s aime les gens et ils l'aiment bien."
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.BEA.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.BEA.NAME"
 msgid "Bea"
-msgstr ""
+msgstr "Bea"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.BERTIE.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.BERTIE.DESC"
@@ -5855,21 +5897,23 @@ msgid ""
 "This {0} is convinced she can remember bits of her past prints. Everyone else is "
 "convinced she's making it up."
 msgstr ""
+"Cette {0} est convaincue qu'elle peut se rappeler des parcelles de ses impressions "
+"antérieures. Tout les autres sont convaincus qu'elle y parvient."
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.BERTIE.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.BERTIE.NAME"
 msgid "Bertie"
-msgstr ""
+msgstr "Bertie"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.BERTRAND.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.BERTRAND.DESC"
 msgid "This {0} always feels great after a bubble bath and a good long cry."
-msgstr ""
+msgstr "Ce {0} se sent toujours bien après un bain moussant et avoir poussé un long cri."
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.BERTRAND.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.BERTRAND.NAME"
 msgid "Bertrand"
-msgstr ""
+msgstr "Bertrand"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.BLANCHE.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.BLANCHE.DESC"
@@ -5877,11 +5921,13 @@ msgid ""
 "{0}s have zero redeeming qualities. People only ever keep them around because they make "
 "genius puns."
 msgstr ""
+"{0} n'ont aucune facilité à se faire pardonner. Les gens ne les tolèrent à cause de "
+"leurs éclairs de génie."
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.BLANCHE.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.BLANCHE.NAME"
 msgid "Blanche"
-msgstr ""
+msgstr "Blanche"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.BRADY.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.BRADY.DESC"
